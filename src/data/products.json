@@ -1,0 +1,6048 @@
+{
+ "categorias": [
+  {
+   "id": "chumbadas",
+   "nome": "Chumbadas",
+   "frase": "Peso de verdade para ancorar a montagem."
+  },
+  {
+   "id": "iscas",
+   "nome": "Iscas & Atrativos",
+   "frase": "Cor e movimento no anzol."
+  },
+  {
+   "id": "anzois",
+   "nome": "Anzóis",
+   "frase": "Aço afiado, pacote com 15."
+  },
+  {
+   "id": "chicotes",
+   "nome": "Chicotes & Conexões",
+   "frase": "Snaps, destorcedores, stoppers e miçangas."
+  },
+  {
+   "id": "margem",
+   "nome": "Acessórios de Margem",
+   "frase": "Do ceva ao suporte de vara."
+  }
+ ],
+ "produtos": [
+  {
+   "n": 1,
+   "handle": "kit-anteninha-2-unidades",
+   "nome": "Anteninha Átomo",
+   "titulo": "Kit Anteninha Átomo 11mm - 2 Unidades",
+   "cat": "iscas",
+   "catSelecao": "iscas",
+   "gancho": "11 mm · borracha flexível",
+   "frase": "Para tambaquis, tambacus e pacus.",
+   "desc": [
+    "Apresentamos a Anteninha Átomo de 11mm: a revolução em iscas de pesca de superfície desenvolvida especificamente para pescadores de pesqueiros em busca de tambaquis, tambacus e pacus. Com a combinação perfeita de design inovador e materiais de alta qualidade, esta anteninha vai elevar sua experiência de pesca a um novo patamar.",
+    "Características Principais:",
+    "Materiais de Borracha de Qualidade: A Anteninha Átomo é confeccionada com material de borracha flexível, o que a torna irresistivelmente natural aos olhos dos peixes, imitando de forma convincente a ração que eles adoram.",
+    "Flutuabilidade Superior: Graças à sua flutuabilidade, esta antena permanece na superfície da água, exatamente onde os tambaquis, tambacus e pacus costumam se alimentar. Isso aumenta suas chances de sucesso na pesca.",
+    "Fácil de Usar: A montagem é simples e eficaz. Basta passar a ponta do anzol através de uma das bolinhas da extremidade da Anteninha Átomo, fixando-a na linha após o olhal do anzol. Em seguida, passe a ponta do anzol pela bolinha central para camuflar o anzol perfeitamente, mantendo-o equilibrado e evitando que a antena se desloque para a curva do anzol.",
+    "Versatilidade Incrível: Com a Anteninha Átomo, as possibilidades de montagem são infinitas. Personalize sua isca adicionando miçangas tradicionais ou os nossos atrativos coloridos também feitos de borracha, permitindo que você adapte sua abordagem de acordo com as preferências dos peixes.",
+    "Tamanho Ideal de Anzol: Recomendamos o uso de anzóis robaleiros wide gap nos tamanhos 1/0 ou 2/0 para obter os melhores resultados com esta isca.",
+    "Prepare-se para vivenciar uma experiência de pesca de superfície incomparável com a Anteninha Átomo de 11mm. Leve seu equipamento para o próximo nível e esteja pronto para capturar os maiores exemplares de tambaquis, tambacus e pacus. Seja um mestre da pesca com a Anteninha Átomo!"
+   ],
+   "tags": [
+    "Antena",
+    "Anteninha",
+    "Atrativo",
+    "Todos"
+   ],
+   "opcoes": {
+    "Cor": [
+     "Preto",
+     "Marrom Claro",
+     "Marrom Escuro"
+    ]
+   },
+   "variantes": [
+    {
+     "sku": "PA10513",
+     "opts": {
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/24eab5924004.webp"
+    },
+    {
+     "sku": "PA10511",
+     "opts": {
+      "Cor": "Marrom Claro"
+     },
+     "price": 0,
+     "img": "/fotos/38e690827acb.webp"
+    },
+    {
+     "sku": "PA10512",
+     "opts": {
+      "Cor": "Marrom Escuro"
+     },
+     "price": 0,
+     "img": "/fotos/c76e0c711704.webp"
+    }
+   ],
+   "preco": null,
+   "variacoes": 3,
+   "foto": "/fotos/24eab5924004.webp",
+   "fotos": [
+    "/fotos/24eab5924004.webp",
+    "/fotos/38e690827acb.webp",
+    "/fotos/c76e0c711704.webp"
+   ]
+  },
+  {
+   "n": 2,
+   "handle": "kit-atrativo-comum-5mm-5-filetes-com-10-unidades",
+   "nome": "Atrativo Comum",
+   "titulo": "Kit Atrativo Comum 5mm - 5 Filetes com 10 Unidades",
+   "cat": "iscas",
+   "catSelecao": "iscas",
+   "gancho": "5 mm · 5 filetes",
+   "frase": "Até 50 pequenas bolinhas por kit.",
+   "desc": [
+    "Atrativo para Pesca 5 mm",
+    "O Atrativo para pesca é o acessório essencial para os pescadores que buscam maximizar sua captura e tornar a pesca ainda mais emocionante. Cada saquinho contém 5 filetes de atrativos, e o melhor de tudo é que cada filete pode ser facilmente cortado em até 10 pequenos atrativos individuais, garantindo uma longa duração e economia, totalizando 50 pequenas bolinhas de atrativo.",
+    "A principal função do Atrativo para Pesca é deixar a isca extremamente atrativa para os peixes tanto pela cor como pelo movimento.",
+    "Além disso, o Atrativo para pesca tem uma característica inovadora. Dependendo do tamanho do anzol e da quantidade de atrativos usados simultaneamente, ele pode proporcionar flutuabilidade à isca. Isso significa que você pode ajustar a quantidade de atrativos conforme sua preferência e o tipo de peixe que deseja atrair. Experimente diferentes combinações para alcançar resultados surpreendentes.",
+    "Outra vantagem incrível do Atrativo para pesca é sua capacidade de manter a isca na posição ideal. Muitas vezes, iscas afundam e acabam escondidas na areia, o que reduz a visibilidade para os peixes e diminui suas chances de sucesso na pesca. Com o Atrativo para pesca, você não precisa se preocupar com isso, pois ele ajuda a manter a isca flutuando sempre à vista dos peixes.",
+    "Destacar os atrativos é simples e prático, podendo ser facilmente feito à mão. Dessa forma, você pode ajustar o tamanho do atrativo de acordo com suas preferências e necessidades específicas para cada pescaria.",
+    "Principais recursos do Atrativo para pesca:",
+    "- Atrativo altamente eficaz para diversas espécies de peixes;",
+    "- Possibilidade de cortar até 10 atrativos por filete;",
+    "- Ajuda a isca a flutuar, dependendo do tamanho do anzol e da quantidade de atrativos usados;",
+    "- Evita que a isca afunde e fique escondida na areia;",
+    "- Fácil de destacar e ajustar o tamanho dos atrativos."
+   ],
+   "tags": [
+    "5mm",
+    "Atrativo",
+    "Comum",
+    "Flutuador",
+    "Isca",
+    "Todos"
+   ],
+   "opcoes": {
+    "Cor": [
+     "Amarelo",
+     "Amarelo Limão",
+     "Azul Claro",
+     "Azul Escuro",
+     "Branco",
+     "Laranja Neon",
+     "Marrom Claro",
+     "Marrom Escuro",
+     "Preto",
+     "Rosa Fluorescente",
+     "Translúcido",
+     "Uva",
+     "Verde Musgo",
+     "Vermelho"
+    ]
+   },
+   "variantes": [
+    {
+     "sku": "PA10412",
+     "opts": {
+      "Cor": "Amarelo"
+     },
+     "price": 0,
+     "img": "/fotos/84ac2f6953e5.webp"
+    },
+    {
+     "sku": "PA10524",
+     "opts": {
+      "Cor": "Amarelo Limão"
+     },
+     "price": 0,
+     "img": "/fotos/b5dd8da475d3.webp"
+    },
+    {
+     "sku": "PA10423",
+     "opts": {
+      "Cor": "Azul Claro"
+     },
+     "price": 0,
+     "img": "/fotos/761c1b3d8fd3.webp"
+    },
+    {
+     "sku": "PA10422",
+     "opts": {
+      "Cor": "Azul Escuro"
+     },
+     "price": 0,
+     "img": "/fotos/f54b09167c0a.webp"
+    },
+    {
+     "sku": "PA10414",
+     "opts": {
+      "Cor": "Branco"
+     },
+     "price": 0,
+     "img": "/fotos/ee906e80e79c.webp"
+    },
+    {
+     "sku": "PA10413",
+     "opts": {
+      "Cor": "Laranja Neon"
+     },
+     "price": 0,
+     "img": "/fotos/54237475d76e.webp"
+    },
+    {
+     "sku": "PA10426",
+     "opts": {
+      "Cor": "Marrom Claro"
+     },
+     "price": 0,
+     "img": "/fotos/944f434b9452.webp"
+    },
+    {
+     "sku": "PA10427",
+     "opts": {
+      "Cor": "Marrom Escuro"
+     },
+     "price": 0,
+     "img": "/fotos/7c28579d31ea.webp"
+    },
+    {
+     "sku": "PA10429",
+     "opts": {
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/545c8e0e76e7.webp"
+    },
+    {
+     "sku": "PA10420",
+     "opts": {
+      "Cor": "Rosa Fluorescente"
+     },
+     "price": 0,
+     "img": "/fotos/db3da5342bd8.webp"
+    },
+    {
+     "sku": "PA10411",
+     "opts": {
+      "Cor": "Translúcido"
+     },
+     "price": 0,
+     "img": "/fotos/4d82d8513b70.webp"
+    },
+    {
+     "sku": "PA10421",
+     "opts": {
+      "Cor": "Uva"
+     },
+     "price": 0,
+     "img": "/fotos/45f656d289a2.webp"
+    },
+    {
+     "sku": "PA10428",
+     "opts": {
+      "Cor": "Verde Musgo"
+     },
+     "price": 0,
+     "img": "/fotos/9a373400bd9b.webp"
+    },
+    {
+     "sku": "PA10419",
+     "opts": {
+      "Cor": "Vermelho"
+     },
+     "price": 0,
+     "img": "/fotos/f1617312fea6.webp"
+    }
+   ],
+   "preco": null,
+   "variacoes": 14,
+   "foto": "/fotos/196c5df69134.webp",
+   "fotos": [
+    "/fotos/196c5df69134.webp",
+    "/fotos/c9791ad636c5.webp",
+    "/fotos/68a310b3c737.webp",
+    "/fotos/4d0cc53076fa.webp",
+    "/fotos/31a5e7021726.webp",
+    "/fotos/380971d3b410.webp",
+    "/fotos/dd9fc1c801bd.webp",
+    "/fotos/a8573a38c68c.webp",
+    "/fotos/5f36b3e3cefd.webp",
+    "/fotos/215eaf9b91c7.webp",
+    "/fotos/bce3625fec64.webp",
+    "/fotos/62c889804137.webp",
+    "/fotos/adb6b12c1739.webp",
+    "/fotos/52f0320d2e1f.webp",
+    "/fotos/3e5e064b7f79.webp",
+    "/fotos/ee906e80e79c.webp",
+    "/fotos/4d82d8513b70.webp",
+    "/fotos/84ac2f6953e5.webp",
+    "/fotos/54237475d76e.webp",
+    "/fotos/f1617312fea6.webp",
+    "/fotos/db3da5342bd8.webp",
+    "/fotos/45f656d289a2.webp",
+    "/fotos/f54b09167c0a.webp",
+    "/fotos/761c1b3d8fd3.webp",
+    "/fotos/7c28579d31ea.webp",
+    "/fotos/944f434b9452.webp",
+    "/fotos/9a373400bd9b.webp",
+    "/fotos/545c8e0e76e7.webp",
+    "/fotos/b5dd8da475d3.webp"
+   ]
+  },
+  {
+   "n": 3,
+   "handle": "kit-atrativo-holografico-5mm-5-filetes-com-10-unidades",
+   "nome": "Atrativo Holográfico",
+   "titulo": "Kit Atrativo Holográfico 5mm - 5 Filetes com 10 Unidades",
+   "cat": "iscas",
+   "catSelecao": "iscas",
+   "gancho": "5 mm · 5 filetes",
+   "frase": "Cor e movimento para a apresentação da isca.",
+   "desc": [
+    "Atrativo para Pesca 5 mm",
+    "O Atrativo para pesca é o acessório essencial para os pescadores que buscam maximizar sua captura e tornar a pesca ainda mais emocionante. Cada saquinho contém 5 filetes de atrativos, e o melhor de tudo é que cada filete pode ser facilmente cortado em até 10 pequenos atrativos individuais, garantindo uma longa duração e economia, totalizando 50 pequenas bolinhas de atrativo.",
+    "A principal função do Atrativo para Pesca é deixar a isca extremamente atrativa para os peixes tanto pela cor como pelo movimento.",
+    "Além disso, o Atrativo para pesca tem uma característica inovadora. Dependendo do tamanho do anzol e da quantidade de atrativos usados simultaneamente, ele pode proporcionar flutuabilidade à isca. Isso significa que você pode ajustar a quantidade de atrativos conforme sua preferência e o tipo de peixe que deseja atrair. Experimente diferentes combinações para alcançar resultados surpreendentes.",
+    "Outra vantagem incrível do Atrativo para pesca é sua capacidade de manter a isca na posição ideal. Muitas vezes, iscas afundam e acabam escondidas na areia, o que reduz a visibilidade para os peixes e diminui suas chances de sucesso na pesca. Com o Atrativo para pesca, você não precisa se preocupar com isso, pois ele ajuda a manter a isca flutuando sempre à vista dos peixes.",
+    "Destacar os atrativos é simples e prático, podendo ser facilmente feito à mão. Dessa forma, você pode ajustar o tamanho do atrativo de acordo com suas preferências e necessidades específicas para cada pescaria.",
+    "Principais recursos do Atrativo para pesca:",
+    "- Atrativo altamente eficaz para diversas espécies de peixes;",
+    "- Possibilidade de cortar até 10 atrativos por filete;",
+    "- Ajuda a isca a flutuar, dependendo do tamanho do anzol e da quantidade de atrativos usados;",
+    "- Evita que a isca afunde e fique escondida na areia;",
+    "- Fácil de destacar e ajustar o tamanho dos atrativos."
+   ],
+   "tags": [
+    "5mm",
+    "Atrativo",
+    "Flutuador",
+    "holografico",
+    "Isca",
+    "Todos"
+   ],
+   "opcoes": {
+    "Cor": [
+     "Beijo da Sombra",
+     "Capim Rubi",
+     "Chá",
+     "Luz Laranja",
+     "Pastel",
+     "Rubi Dourado",
+     "Rapadura",
+     "Roxo Estelar",
+     "Salmão Radiante",
+     "Verde Cósmico",
+     "Vermelho Holográfico",
+     "Véu da Noite"
+    ]
+   },
+   "variantes": [
+    {
+     "sku": "PA10523",
+     "opts": {
+      "Cor": "Beijo da Sombra"
+     },
+     "price": 0,
+     "img": null
+    },
+    {
+     "sku": "PA10517",
+     "opts": {
+      "Cor": "Capim Rubi"
+     },
+     "price": 0,
+     "img": "/fotos/21112c8eb03d.webp"
+    },
+    {
+     "sku": "PA10515",
+     "opts": {
+      "Cor": "Chá"
+     },
+     "price": 0,
+     "img": "/fotos/cd5b6db5af80.webp"
+    },
+    {
+     "sku": "PA10522",
+     "opts": {
+      "Cor": "Luz Laranja"
+     },
+     "price": 0,
+     "img": null
+    },
+    {
+     "sku": "AT0435005010",
+     "opts": {
+      "Cor": "Pastel"
+     },
+     "price": 0,
+     "img": "/fotos/f4ad6e0f9216.webp"
+    },
+    {
+     "sku": "PA10516",
+     "opts": {
+      "Cor": "Rubi Dourado"
+     },
+     "price": 0,
+     "img": "/fotos/1d2dcc7c4905.webp"
+    },
+    {
+     "sku": "PA10731",
+     "opts": {
+      "Cor": "Rapadura"
+     },
+     "price": 0,
+     "img": "/fotos/b7118c22fb7f.webp"
+    },
+    {
+     "sku": "PA10520",
+     "opts": {
+      "Cor": "Roxo Estelar"
+     },
+     "price": 0,
+     "img": "/fotos/a7e8856e1490.webp"
+    },
+    {
+     "sku": "PA10519",
+     "opts": {
+      "Cor": "Salmão Radiante"
+     },
+     "price": 0,
+     "img": null
+    },
+    {
+     "sku": "PA10518",
+     "opts": {
+      "Cor": "Verde Cósmico"
+     },
+     "price": 0,
+     "img": null
+    },
+    {
+     "sku": "PA10521",
+     "opts": {
+      "Cor": "Vermelho Holográfico"
+     },
+     "price": 0,
+     "img": "/fotos/bb7ec575cd33.webp"
+    },
+    {
+     "sku": "PA10514",
+     "opts": {
+      "Cor": "Véu da Noite"
+     },
+     "price": 0,
+     "img": "/fotos/b2d7ec384956.webp"
+    }
+   ],
+   "preco": null,
+   "variacoes": 12,
+   "foto": "/fotos/c74d26e3d751.webp",
+   "fotos": [
+    "/fotos/c74d26e3d751.webp",
+    "/fotos/21112c8eb03d.webp",
+    "/fotos/777b9f1c1f33.webp",
+    "/fotos/bb7ec575cd33.webp",
+    "/fotos/24d1e640c7ca.webp",
+    "/fotos/1d2dcc7c4905.webp",
+    "/fotos/03500c5e82b2.webp",
+    "/fotos/cd5b6db5af80.webp",
+    "/fotos/a7e8856e1490.webp",
+    "/fotos/b2d7ec384956.webp",
+    "/fotos/b7118c22fb7f.webp",
+    "/fotos/f4ad6e0f9216.webp",
+    "/fotos/c9791ad636c5.webp"
+   ]
+  },
+  {
+   "n": 4,
+   "handle": "kit-mini-atrativo-comum",
+   "nome": "Mini Atrativo Comum",
+   "titulo": "Kit Mini Atrativo Comum 3mm - 5 Filetes com 10 Unidades",
+   "cat": "iscas",
+   "catSelecao": "iscas",
+   "gancho": "3 mm · 5 filetes",
+   "frase": "Na curva do anzol ou junto à isca.",
+   "desc": [
+    "Mini Atrativo 3mm",
+    "O Mini Atrativo 3mm é uma solução versátil e inovadora para pescadores que desejam aumentar suas chances de sucesso. Com apenas 3mm de diâmetro, esse acessório pode ser utilizado tanto na curva do anzol quanto diretamente na linha próximo a isca, oferecendo praticidade e eficiência. Além de atrair os peixes, o Mini Atrativo 3mm ajuda a manter a isca suspensa, evitando que ela se enterre no fundo e garantindo sua visibilidade, aumentando as chances de fisgar o peixe.",
+    "Disponível em uma variedade de cores, o Mini Atrativo 3mm é fabricado com um material de alta resistência, suportando condições adversas tanto em água doce quanto salgada. Testado em diversas situações, este acessório mostrou ser eficaz mesmo sem o uso de iscas tradicionais. Por exemplo, em pescas de tilápia, o Mini Atrativo 3mm pode ser usado sozinho, provando sua capacidade de atrair peixes por si só.",
+    "Para pescas em praias, aconselhamos o uso do Mini Atrativo 3mm em conjunto com camarão ou outras iscas populares como corrupto e sarnambi. As cores do atrativo também desempenham um papel importante, simulando diferentes tipos de alimento: o atrativo laranja, por exemplo, pode imitar ovas, enquanto o atrativo branco se assemelha a iscas mais tradicionais. Em rios, a cor amarela do Mini Atrativo 3mm foi testada com sucesso, simulando grãos de milho, sendo uma opção eficaz para atrair diversas espécies.",
+    "Feito para durar e melhorar sua experiência de pesca, o Mini Atrativo 3mm é uma escolha indispensável para quem busca capturas mais rápidas e eficientes, com ou sem o uso de isca adicional."
+   ],
+   "tags": [
+    "3mm",
+    "Atrativo",
+    "Comum",
+    "Flutuador",
+    "Isca",
+    "Mini",
+    "todos"
+   ],
+   "opcoes": {
+    "Cor": [
+     "Amarelo",
+     "Amarelo Limão",
+     "Azul Claro",
+     "Branco",
+     "Azul Escuro",
+     "Laranja Neon",
+     "Marrom Claro",
+     "Marrom Escuro",
+     "Preto",
+     "Rosa Fluorescente",
+     "Translúcido",
+     "Uva",
+     "Verde Musgo",
+     "Vermelho"
+    ]
+   },
+   "variantes": [
+    {
+     "sku": "PA11847",
+     "opts": {
+      "Cor": "Amarelo"
+     },
+     "price": 0,
+     "img": "/fotos/771c0323302f.webp"
+    },
+    {
+     "sku": "PA11827",
+     "opts": {
+      "Cor": "Amarelo Limão"
+     },
+     "price": 0,
+     "img": "/fotos/a6fd087cc523.webp"
+    },
+    {
+     "sku": "PA11840",
+     "opts": {
+      "Cor": "Azul Claro"
+     },
+     "price": 0,
+     "img": "/fotos/caf2524b1cf1.webp"
+    },
+    {
+     "sku": "PA11845",
+     "opts": {
+      "Cor": "Branco"
+     },
+     "price": 0,
+     "img": "/fotos/04d583916e04.webp"
+    },
+    {
+     "sku": "PA11841",
+     "opts": {
+      "Cor": "Azul Escuro"
+     },
+     "price": 0,
+     "img": "/fotos/17c134597bca.webp"
+    },
+    {
+     "sku": "PA11846",
+     "opts": {
+      "Cor": "Laranja Neon"
+     },
+     "price": 0,
+     "img": "/fotos/96ec7b8404a9.webp"
+    },
+    {
+     "sku": "PA11839",
+     "opts": {
+      "Cor": "Marrom Claro"
+     },
+     "price": 0,
+     "img": "/fotos/99c9383a5ecf.webp"
+    },
+    {
+     "sku": "PA11838",
+     "opts": {
+      "Cor": "Marrom Escuro"
+     },
+     "price": 0,
+     "img": "/fotos/35a1d51f4b1e.webp"
+    },
+    {
+     "sku": "PA11836",
+     "opts": {
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/f872513ff92f.webp"
+    },
+    {
+     "sku": "PA11843",
+     "opts": {
+      "Cor": "Rosa Fluorescente"
+     },
+     "price": 0,
+     "img": "/fotos/a3e0f81487f1.webp"
+    },
+    {
+     "sku": "PA11848",
+     "opts": {
+      "Cor": "Translúcido"
+     },
+     "price": 0,
+     "img": "/fotos/006e3590b109.webp"
+    },
+    {
+     "sku": "PA11842",
+     "opts": {
+      "Cor": "Uva"
+     },
+     "price": 0,
+     "img": "/fotos/3600544b7f38.webp"
+    },
+    {
+     "sku": "PA11837",
+     "opts": {
+      "Cor": "Verde Musgo"
+     },
+     "price": 0,
+     "img": "/fotos/56bd204682ac.webp"
+    },
+    {
+     "sku": "PA11844",
+     "opts": {
+      "Cor": "Vermelho"
+     },
+     "price": 0,
+     "img": "/fotos/a3e0f81487f1.webp"
+    }
+   ],
+   "preco": null,
+   "variacoes": 14,
+   "foto": "/fotos/390578ad7d53.webp",
+   "fotos": [
+    "/fotos/390578ad7d53.webp",
+    "/fotos/a6fd087cc523.webp",
+    "/fotos/04d583916e04.webp",
+    "/fotos/35a1d51f4b1e.webp",
+    "/fotos/1f8a49814545.webp",
+    "/fotos/56bd204682ac.webp",
+    "/fotos/a3e0f81487f1.webp",
+    "/fotos/771c0323302f.webp",
+    "/fotos/caf2524b1cf1.webp",
+    "/fotos/b5dd8da475d3.webp",
+    "/fotos/3600544b7f38.webp",
+    "/fotos/17c134597bca.webp",
+    "/fotos/96ec7b8404a9.webp",
+    "/fotos/99c9383a5ecf.webp",
+    "/fotos/f872513ff92f.webp",
+    "/fotos/006e3590b109.webp",
+    "/fotos/e887aaf0e28f.webp"
+   ]
+  },
+  {
+   "n": 5,
+   "handle": "estilingue",
+   "nome": "Estilingue Cevador",
+   "titulo": "Estilingue",
+   "cat": "margem",
+   "catSelecao": "acessorios",
+   "gancho": "Precisão na ceva",
+   "frase": "Abasteça o ponto sem recolher a boia.",
+   "desc": [
+    "O Estilingue Cevador é um acessório prático e muito eficiente, desenvolvido para facilitar a ceva durante a pescaria. Ideal para o uso com boia torpedo e outros sistemas finesse, ele elimina a necessidade de utilizar boia cevadeira.",
+    "Basta colocar a ração no estilingue, apontar para o local onde a boia e o anzol estão posicionados e arremessar. Assim, você consegue cevar o ponto aos poucos, com maior precisão, sem precisar recolher ou retirar a boia do lugar.",
+    "Mais praticidade, controle e eficiência para sua pescaria!",
+    "Disponível em três cores: Preto Eco, Azul Eco e Branco Eco."
+   ],
+   "tags": [
+    "Cevadeira",
+    "Eco",
+    "Estilingue",
+    "Todos"
+   ],
+   "opcoes": {
+    "Quantidade": [
+     "Pacote com 10 Unidades"
+    ],
+    "Cor": [
+     "Azul Eco",
+     "Branco Eco",
+     "Preto Eco"
+    ]
+   },
+   "variantes": [
+    {
+     "sku": "702728010",
+     "opts": {
+      "Quantidade": "Pacote com 10 Unidades",
+      "Cor": "Azul Eco"
+     },
+     "price": 0,
+     "img": null
+    },
+    {
+     "sku": "702731010",
+     "opts": {
+      "Quantidade": "Pacote com 10 Unidades",
+      "Cor": "Branco Eco"
+     },
+     "price": 0,
+     "img": null
+    },
+    {
+     "sku": "702719010",
+     "opts": {
+      "Quantidade": "Pacote com 10 Unidades",
+      "Cor": "Preto Eco"
+     },
+     "price": 0,
+     "img": null
+    }
+   ],
+   "preco": null,
+   "variacoes": 3,
+   "foto": "/fotos/92b15575be80.webp",
+   "fotos": [
+    "/fotos/92b15575be80.webp"
+   ]
+  },
+  {
+   "n": 6,
+   "handle": "anzol-chinu",
+   "nome": "Anzol Chinu",
+   "titulo": "Anzol Chinu (Pct com 15)",
+   "cat": "anzois",
+   "catSelecao": "anzois",
+   "gancho": "Pacote com 15 unidades",
+   "frase": "Haste curta e espaço para uma isca generosa.",
+   "desc": [
+    "Resistência e Versatilidade para Todas as Pescarias",
+    "O Anzol Chinu é um modelo de anzol extremamente conhecido na maioria das modalidades de pesca. Conhecido por sua alta resistência e versatilidade, ele é ideal para pescadores que buscam performance em diferentes tipos de ambiente, seja em pesqueiros, rios, ou na pesca de praia.",
+    "Projetado com uma haste pequena, o Anzol Chinu oferece um equilíbrio perfeito entre robustez e praticidade, sendo capaz de suportar grandes desafios, mesmo com peixes de grande porte. Sua capacidade de aceitar uma isca generosa amplia as possibilidades, tornando-o a escolha certa para atrair diferentes espécies.",
+    "Com o Anzol Chinu, você estará preparado para capturas inesquecíveis, confiando em um equipamento que entrega qualidade e eficiência em cada detalhe."
+   ],
+   "tags": [
+    "Anzol",
+    "Chinu",
+    "Margem",
+    "Olhal",
+    "Preto",
+    "todos"
+   ],
+   "opcoes": {
+    "Tamanho": [
+     "0,5#",
+     "0,8#",
+     "1#",
+     "2#",
+     "3#",
+     "4#",
+     "5#",
+     "6#",
+     "7#",
+     "8#"
+    ],
+    "Variações": [
+     "Olhal",
+     "Pata"
+    ],
+    "Cor": [
+     "Preto"
+    ]
+   },
+   "variantes": [
+    {
+     "sku": "410351119",
+     "opts": {
+      "Tamanho": "0,5#",
+      "Variações": "Olhal",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/bce5bcf52887.webp"
+    },
+    {
+     "sku": "410351120",
+     "opts": {
+      "Tamanho": "0,8#",
+      "Variações": "Olhal",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/83a78374e327.webp"
+    },
+    {
+     "sku": "41035111",
+     "opts": {
+      "Tamanho": "1#",
+      "Variações": "Olhal",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/879f149166b9.webp"
+    },
+    {
+     "sku": "41035112",
+     "opts": {
+      "Tamanho": "2#",
+      "Variações": "Olhal",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/99b3ba92a906.webp"
+    },
+    {
+     "sku": "41035113",
+     "opts": {
+      "Tamanho": "3#",
+      "Variações": "Olhal",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/d8b9b808c00a.webp"
+    },
+    {
+     "sku": "41035114",
+     "opts": {
+      "Tamanho": "4#",
+      "Variações": "Olhal",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/dcd822d1a41d.webp"
+    },
+    {
+     "sku": "41035115",
+     "opts": {
+      "Tamanho": "5#",
+      "Variações": "Olhal",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/0f42d3502534.webp"
+    },
+    {
+     "sku": "41035116",
+     "opts": {
+      "Tamanho": "6#",
+      "Variações": "Olhal",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/8ee36c307737.webp"
+    },
+    {
+     "sku": "41035117",
+     "opts": {
+      "Tamanho": "7#",
+      "Variações": "Olhal",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/0e685db0cc65.webp"
+    },
+    {
+     "sku": "41035118",
+     "opts": {
+      "Tamanho": "8#",
+      "Variações": "Olhal",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/a5bee4620ecb.webp"
+    },
+    {
+     "sku": "410352120",
+     "opts": {
+      "Tamanho": "0,8#",
+      "Variações": "Pata",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/92905e9cf13a.webp"
+    },
+    {
+     "sku": "41035211",
+     "opts": {
+      "Tamanho": "1#",
+      "Variações": "Pata",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/dce562a3d708.webp"
+    },
+    {
+     "sku": "41035212",
+     "opts": {
+      "Tamanho": "2#",
+      "Variações": "Pata",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/c95ca333c3cb.webp"
+    },
+    {
+     "sku": "41035213",
+     "opts": {
+      "Tamanho": "3#",
+      "Variações": "Pata",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/fb790b25e6ef.webp"
+    },
+    {
+     "sku": "41035214",
+     "opts": {
+      "Tamanho": "4#",
+      "Variações": "Pata",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/c25b3769da88.webp"
+    },
+    {
+     "sku": "41035215",
+     "opts": {
+      "Tamanho": "5#",
+      "Variações": "Pata",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/9356104d3c17.webp"
+    },
+    {
+     "sku": "41035216",
+     "opts": {
+      "Tamanho": "6#",
+      "Variações": "Pata",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/016bb9c203af.webp"
+    },
+    {
+     "sku": "41035217",
+     "opts": {
+      "Tamanho": "7#",
+      "Variações": "Pata",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/c7843e0b5f50.webp"
+    },
+    {
+     "sku": "41035218",
+     "opts": {
+      "Tamanho": "8#",
+      "Variações": "Pata",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": null
+    },
+    {
+     "sku": "410352119",
+     "opts": {
+      "Tamanho": "0,5#",
+      "Variações": "Pata",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/bce5bcf52887.webp"
+    }
+   ],
+   "preco": null,
+   "variacoes": 20,
+   "foto": "/fotos/d2b7feb361ab.webp",
+   "fotos": [
+    "/fotos/d2b7feb361ab.webp",
+    "/fotos/52a96d82250a.webp",
+    "/fotos/bce5bcf52887.webp",
+    "/fotos/83a78374e327.webp",
+    "/fotos/879f149166b9.webp",
+    "/fotos/99b3ba92a906.webp",
+    "/fotos/d8b9b808c00a.webp",
+    "/fotos/dcd822d1a41d.webp",
+    "/fotos/0f42d3502534.webp",
+    "/fotos/8ee36c307737.webp",
+    "/fotos/0e685db0cc65.webp",
+    "/fotos/a5bee4620ecb.webp",
+    "/fotos/386ea1b16822.webp",
+    "/fotos/92905e9cf13a.webp",
+    "/fotos/dce562a3d708.webp",
+    "/fotos/c95ca333c3cb.webp",
+    "/fotos/fb790b25e6ef.webp",
+    "/fotos/c25b3769da88.webp",
+    "/fotos/9356104d3c17.webp",
+    "/fotos/016bb9c203af.webp",
+    "/fotos/c7843e0b5f50.webp"
+   ]
+  },
+  {
+   "n": 7,
+   "handle": "anzol-izumezina",
+   "nome": "Anzol Izumezina",
+   "titulo": "Anzol Izumezina (Pct com 15)",
+   "cat": "anzois",
+   "catSelecao": "anzois",
+   "gancho": "Pacote com 15 unidades",
+   "frase": "Resistência e versatilidade para sua pescaria.",
+   "desc": [
+    "Versatilidade e Resistência",
+    "O Anzol Izumezina, projetado com qualidade e precisão, é a escolha ideal para pescadores exigentes. Fabricado com materiais de alta resistência, este anzol é extremamente durável, mesmo em tamanhos pequenos, é perfeito para enfrentar as condições mais desafiadoras em pescarias oceânicas. Seu design exclusivo com morte aberta, proporciona maior eficiência nas fisgadas, possibilidade de carrega-lo mais com isca, e espaço para uma boa fisgada mesmo com iscas artificiais garantindo maior taxa de sucesso.",
+    "Características principais:",
+    "- Extrema resistência: Ideal para captura de espécies oceânicas, mesmo em condições adversas.",
+    "- Versatilidade única: Perfeito para montagem de suporte hooks, utilizado em metal jigs.",
+    "- Desempenho superior em sistemas como Down Shot ou Double Shot.",
+    "- Compatibilidade com kits: Utilizado com o Kit Down Shot da Chumbada Oficial na extremidade inferior do chicote mais uma isca artificial em uma pernada superior (montado com Izumezina sem peso), ou Double Shot com Jig Heads e iscas artificiais na extremidade inferior do chicote e uma pernada superior com outra isca artificial (montado com Izumezina sem peso).",
+    "- Aplicação prática: Pode ser empregado como parte da pernada em diversos sistemas de pesca, principalmente com iscas artificiais como camarão soft.",
+    "Seja para pescarias técnicas ou para quem busca o melhor desempenho, o Anzol Izumezina combina inovação, durabilidade e funcionalidade. Um produto indispensável para maximizar suas aventuras de pesca."
+   ],
+   "tags": [
+    "Anzol",
+    "Izumezina",
+    "Margem",
+    "Olhal",
+    "Preto",
+    "todos"
+   ],
+   "opcoes": {
+    "Tamanho": [
+     "8#",
+     "9#",
+     "11#",
+     "12#",
+     "10#"
+    ],
+    "Variações": [
+     "Olhal",
+     "Pata"
+    ],
+    "Cor": [
+     "Preto"
+    ]
+   },
+   "variantes": [
+    {
+     "sku": "41037118",
+     "opts": {
+      "Tamanho": "8#",
+      "Variações": "Olhal",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": null
+    },
+    {
+     "sku": "41037119",
+     "opts": {
+      "Tamanho": "9#",
+      "Variações": "Olhal",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/4f6dc05e91de.webp"
+    },
+    {
+     "sku": "410371111",
+     "opts": {
+      "Tamanho": "11#",
+      "Variações": "Olhal",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": null
+    },
+    {
+     "sku": "410371112",
+     "opts": {
+      "Tamanho": "12#",
+      "Variações": "Olhal",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/9f52680db632.webp"
+    },
+    {
+     "sku": "41037218",
+     "opts": {
+      "Tamanho": "8#",
+      "Variações": "Pata",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/6d0d0e29b75e.webp"
+    },
+    {
+     "sku": "41037219",
+     "opts": {
+      "Tamanho": "9#",
+      "Variações": "Pata",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/0f9b87464d91.webp"
+    },
+    {
+     "sku": "410372110",
+     "opts": {
+      "Tamanho": "10#",
+      "Variações": "Pata",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/44d50b40d50c.webp"
+    },
+    {
+     "sku": "410372111",
+     "opts": {
+      "Tamanho": "11#",
+      "Variações": "Pata",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/a5ec3fa49fd5.webp"
+    },
+    {
+     "sku": "410372112",
+     "opts": {
+      "Tamanho": "12#",
+      "Variações": "Pata",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": null
+    }
+   ],
+   "preco": null,
+   "variacoes": 9,
+   "foto": "/fotos/5567098e85ec.webp",
+   "fotos": [
+    "/fotos/5567098e85ec.webp",
+    "/fotos/bbff4d72086e.webp",
+    "/fotos/4f6dc05e91de.webp",
+    "/fotos/a2f37f09f9a6.webp",
+    "/fotos/9f52680db632.webp",
+    "/fotos/dcfbf0b2fd83.webp",
+    "/fotos/6d0d0e29b75e.webp",
+    "/fotos/0f9b87464d91.webp",
+    "/fotos/44d50b40d50c.webp",
+    "/fotos/a5ec3fa49fd5.webp",
+    "/fotos/1b7ecad83512.webp",
+    "/fotos/af27a00e5739.webp"
+   ]
+  },
+  {
+   "n": 8,
+   "handle": "anzol-maruseigo",
+   "nome": "Anzol Maruseigo",
+   "titulo": "Anzol Maruseigo (Pct com 15)",
+   "cat": "anzois",
+   "catSelecao": "anzois",
+   "gancho": "Pacote com 15 unidades",
+   "frase": "Haste balanceada e praticidade para iscar.",
+   "desc": [
+    "Versatilidade e Resistência para Todas as Pescarias",
+    "O anzol Maruseigo é uma verdadeira coringa no mundo da pesca, sendo amplamente reconhecido por suas atividades e desempenho em diversas modalidades. Seja em pescarias oceânicas, de praia, em rios, lagos ou costões, o Maruseigo é a escolha ideal para pescadores que buscam eficiência e confiabilidade.",
+    "Fabricado com materiais de alta qualidade, o Maruseigo é um anzol robusto e resistente, projetado para enfrentar as batalhas mais desafiadoras com os peixes. Sua haste possui um comprimento balanceado, oferecendo praticidade no uso e garantindo facilidade para iscar. A fisga apresenta uma morte média, proporcionando excelente poder de penetração sem dificuldades a retirada do anzol, o que o torna funcional para diferentes espécies e tamanhos de peixes.",
+    "Este modelo é famoso pela sua durabilidade e adaptação às diferentes condições de pesca, tornando-se uma ferramenta essencial no arsenal de qualquer pescador. Escolha o Anzol Maruseigo e aproveite a combinação perfeita de resistência, desempenho e características em suas aventuras de pesca."
+   ],
+   "tags": [
+    "Anzol",
+    "Margem",
+    "Maruseigo",
+    "Olhal",
+    "Preto",
+    "todos"
+   ],
+   "opcoes": {
+    "Tamanho": [
+     "8#",
+     "9#",
+     "10#",
+     "11#",
+     "12#",
+     "13#",
+     "14#",
+     "15#",
+     "16#",
+     "17#",
+     "18#"
+    ],
+    "Variações": [
+     "Olhal",
+     "Pata"
+    ],
+    "Cor": [
+     "Preto"
+    ]
+   },
+   "variantes": [
+    {
+     "sku": "410310118",
+     "opts": {
+      "Tamanho": "8#",
+      "Variações": "Olhal",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/ac662cf7e0f8.webp"
+    },
+    {
+     "sku": "410310218",
+     "opts": {
+      "Tamanho": "8#",
+      "Variações": "Pata",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/8230301e73b1.webp"
+    },
+    {
+     "sku": "410310119",
+     "opts": {
+      "Tamanho": "9#",
+      "Variações": "Olhal",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/f4f2ce28e71e.webp"
+    },
+    {
+     "sku": "410310219",
+     "opts": {
+      "Tamanho": "9#",
+      "Variações": "Pata",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/2dc82cf8c54a.webp"
+    },
+    {
+     "sku": "4103101110",
+     "opts": {
+      "Tamanho": "10#",
+      "Variações": "Olhal",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/ab4d2023d362.webp"
+    },
+    {
+     "sku": "MRev0070",
+     "opts": {
+      "Tamanho": "10#",
+      "Variações": "Pata",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/293dcda4d36a.webp"
+    },
+    {
+     "sku": "4103102111",
+     "opts": {
+      "Tamanho": "11#",
+      "Variações": "Pata",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/8677b23e3566.webp"
+    },
+    {
+     "sku": "MRev0069",
+     "opts": {
+      "Tamanho": "12#",
+      "Variações": "Olhal",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/66b7db980e0e.webp"
+    },
+    {
+     "sku": "4103102113",
+     "opts": {
+      "Tamanho": "13#",
+      "Variações": "Pata",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/1f9a30b64cdd.webp"
+    },
+    {
+     "sku": "4103101113",
+     "opts": {
+      "Tamanho": "13#",
+      "Variações": "Olhal",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/67d0b1dd70ea.webp"
+    },
+    {
+     "sku": "4103101114",
+     "opts": {
+      "Tamanho": "14#",
+      "Variações": "Olhal",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/1a2af3e03a92.webp"
+    },
+    {
+     "sku": "MRev0071",
+     "opts": {
+      "Tamanho": "14#",
+      "Variações": "Pata",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/c5fee7340cdb.webp"
+    },
+    {
+     "sku": "4103102115",
+     "opts": {
+      "Tamanho": "15#",
+      "Variações": "Pata",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/71507b92e409.webp"
+    },
+    {
+     "sku": "4103102116",
+     "opts": {
+      "Tamanho": "16#",
+      "Variações": "Pata",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/20b8a9acc3be.webp"
+    },
+    {
+     "sku": "4103101117",
+     "opts": {
+      "Tamanho": "17#",
+      "Variações": "Olhal",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/aba2ecc90b55.webp"
+    },
+    {
+     "sku": "4103102117",
+     "opts": {
+      "Tamanho": "17#",
+      "Variações": "Pata",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/6ad980fe526b.webp"
+    },
+    {
+     "sku": "4103101118",
+     "opts": {
+      "Tamanho": "18#",
+      "Variações": "Olhal",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/97e05ba180e5.webp"
+    },
+    {
+     "sku": "4103102118",
+     "opts": {
+      "Tamanho": "18#",
+      "Variações": "Pata",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/05e7173c440d.webp"
+    },
+    {
+     "sku": "4103102112",
+     "opts": {
+      "Tamanho": "12#",
+      "Variações": "Pata",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/5fd85cd9f02a.webp"
+    },
+    {
+     "sku": "4103101111",
+     "opts": {
+      "Tamanho": "11#",
+      "Variações": "Olhal",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/d54e316a24d8.webp"
+    },
+    {
+     "sku": "4103101116",
+     "opts": {
+      "Tamanho": "16#",
+      "Variações": "Olhal",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/59e6c107166b.webp"
+    }
+   ],
+   "preco": null,
+   "variacoes": 21,
+   "foto": "/fotos/6dcd85c10dbd.webp",
+   "fotos": [
+    "/fotos/6dcd85c10dbd.webp",
+    "/fotos/2dd305168361.webp",
+    "/fotos/ac662cf7e0f8.webp",
+    "/fotos/f4f2ce28e71e.webp",
+    "/fotos/ab4d2023d362.webp",
+    "/fotos/d54e316a24d8.webp",
+    "/fotos/67d0b1dd70ea.webp",
+    "/fotos/1a2af3e03a92.webp",
+    "/fotos/a0349b00fc9f.webp",
+    "/fotos/59e6c107166b.webp",
+    "/fotos/aba2ecc90b55.webp",
+    "/fotos/8230301e73b1.webp",
+    "/fotos/2dc82cf8c54a.webp",
+    "/fotos/8677b23e3566.webp",
+    "/fotos/5fd85cd9f02a.webp",
+    "/fotos/1f9a30b64cdd.webp",
+    "/fotos/71507b92e409.webp",
+    "/fotos/20b8a9acc3be.webp",
+    "/fotos/6ad980fe526b.webp",
+    "/fotos/05e7173c440d.webp",
+    "/fotos/293dcda4d36a.webp",
+    "/fotos/66b7db980e0e.webp",
+    "/fotos/c5fee7340cdb.webp",
+    "/fotos/97e05ba180e5.webp"
+   ]
+  },
+  {
+   "n": 9,
+   "handle": "stopper-modelo-oliva",
+   "nome": "Stopper Oliva",
+   "titulo": "Stopper Modelo Oliva",
+   "cat": "chicotes",
+   "catSelecao": "acessorios",
+   "gancho": "Regulagem de linha",
+   "frase": "Ajuste a posição da boia ou da pernada.",
+   "desc": [
+    "Stopper Modelo Oliva: Regulagem Precisa, Versatilidade e Segurança na captura do peixe.",
+    "O Stopper modelo Oliva é muito mais do que um acessório para regulagem de linha; é uma solução inteligente que combina praticidade e segurança, especialmente em pescarias desafiadoras. Feito de borracha de alta qualidade, ele desliza com leve pressão na linha, permitindo ajustes precisos na altura da boia ou da pernada, atendendo diferentes situações como montagens de chicotes de pescas de praia ou Down Shot.",
+    "Um detalhe importante, mas pouco observado, é sua função como um verdadeiro fusível na linha, oferecendo segurança durante a briga com o peixe. Quando o peixe oferece resistência e há risco de rasgar a boca ou estourar o anzol, o Stopper entra em ação. Ele desliza suavemente pela linha principal, sem deixar a linha afrouxar, mas aliviando a pressão sobre a membrana sensível da boca do peixe. Isso faz do Stopper modelo Oliva indispensável para pescarias onde os peixes têm bocas frágeis e delicadas.",
+    "Na briga com o peixe, vários fatores trabalham em conjunto para absorver o impacto: a mola representada pela torção do caniço, a elasticidade da linha, o freio do molinete ou da carretilha, e, com o Stopper, você adiciona mais uma camada de proteção — o deslize controlado na linha. Esse sistema reduz significativamente os riscos de perder o peixe e aumenta suas chances de um combate bem-sucedido.",
+    "Com um design discreto e hidrodinâmico, o modelo Oliva garante naturalidade ao conjunto e excelente performance em qualquer ambiente. Seja para ajustes precisos ou segurança em sua captura, o Stopper modelo Oliva é a ferramenta indispensável para pescadores exigentes."
+   ],
+   "tags": [
+    "Chicote",
+    "Stopper",
+    "Todos"
+   ],
+   "opcoes": {
+    "Tamanho": [
+     "P",
+     "M",
+     "G"
+    ]
+   },
+   "variantes": [
+    {
+     "sku": "PA10067",
+     "opts": {
+      "Tamanho": "P"
+     },
+     "price": 0,
+     "img": "/fotos/e5df3bb2cbac.webp"
+    },
+    {
+     "sku": "PA10068",
+     "opts": {
+      "Tamanho": "M"
+     },
+     "price": 0,
+     "img": "/fotos/ab0d994c7c2b.webp"
+    },
+    {
+     "sku": "PA10069",
+     "opts": {
+      "Tamanho": "G"
+     },
+     "price": 0,
+     "img": "/fotos/848370275b35.webp"
+    }
+   ],
+   "preco": null,
+   "variacoes": 3,
+   "foto": "/fotos/4cc5168f34a6.webp",
+   "fotos": [
+    "/fotos/4cc5168f34a6.webp",
+    "/fotos/e5df3bb2cbac.webp",
+    "/fotos/ab0d994c7c2b.webp",
+    "/fotos/848370275b35.webp"
+   ]
+  },
+  {
+   "n": 10,
+   "handle": "stopper-modelo-cilindrico",
+   "nome": "Stopper Cilíndrico",
+   "titulo": "Stopper Modelo Cilíndrico",
+   "cat": "chicotes",
+   "catSelecao": "acessorios",
+   "gancho": "Trava com maior aderência",
+   "frase": "Pega anatômica para facilitar a montagem.",
+   "desc": [
+    "O Stopper Cilíndrico da Chumbada Oficial é uma segunda opção em relação ao modelo anterior, oferecendo as mesmas qualidades e características, porém com uma aderência aprimorada para situações que exigem uma trava mais firme. Assim como o modelo arredondado anterior, o Stopper Cilíndrico é vendido o kit com dois fardos contendo 10 unidades cada.",
+    "Uma característica distintiva do Stopper Cilíndrico da Chumbada Oficial é a sua pega anatômica, projetada para facilitar a transferência do stopper para a linha do chicote de pesca. Essa pega ergonômica foi desenvolvida visando proporcionar conforto e precisão durante o manuseio, tornando a fixação na linha mais fácil e eficiente.",
+    "Além disso, nossos stoppers são montados com cabos de aço colados, eliminando qualquer aborrecimento de escaparem durante a montagem. Essa construção confiável e durável garante que os stoppers permaneçam firmemente fixados à linha, mesmo em situações de alta pressão.",
+    "O Stopper Cilíndrico da Chumbada Oficial é uma escolha confiável para pescadores que procuram uma opção adicional que ofereça uma trava sólida e segura. Sua aderência aprimorada proporciona maior segurança ao garantir que o stopper permaneça no lugar desejado, mesmo durante as situações mais desafiadoras de pesca."
+   ],
+   "tags": [
+    "Acessorios",
+    "Cilindrico",
+    "Margem",
+    "Stopper",
+    "Todos"
+   ],
+   "opcoes": {
+    "Tamanho": [
+     "P",
+     "M",
+     "G"
+    ]
+   },
+   "variantes": [
+    {
+     "sku": "PA10393",
+     "opts": {
+      "Tamanho": "P"
+     },
+     "price": 0,
+     "img": "/fotos/765d37f0f8f0.webp"
+    },
+    {
+     "sku": "PA10392",
+     "opts": {
+      "Tamanho": "M"
+     },
+     "price": 0,
+     "img": "/fotos/3fa782560e02.webp"
+    },
+    {
+     "sku": "PA10391",
+     "opts": {
+      "Tamanho": "G"
+     },
+     "price": 0,
+     "img": "/fotos/636f3f50fb80.webp"
+    }
+   ],
+   "preco": null,
+   "variacoes": 3,
+   "foto": "/fotos/4d44fb910ca6.webp",
+   "fotos": [
+    "/fotos/4d44fb910ca6.webp",
+    "/fotos/a2779c6fafbb.webp",
+    "/fotos/7b536bb386a8.webp",
+    "/fotos/1b1e196a8397.webp",
+    "/fotos/765d37f0f8f0.webp",
+    "/fotos/3fa782560e02.webp",
+    "/fotos/636f3f50fb80.webp"
+   ]
+  },
+  {
+   "n": 11,
+   "handle": "micangas-de-vidro-pacote-com-500",
+   "nome": "Miçangas de Vidro",
+   "titulo": "Miçangas de Vidro (Pacote com 500)",
+   "cat": "chicotes",
+   "catSelecao": "acessorios",
+   "gancho": "Pacote com 500 unidades",
+   "frase": "Diâmetro de 2,5 mm · linhas de até 0,8 mm.",
+   "desc": [
+    "Para usos diversos",
+    "Diâmetro Externo 2,5mm",
+    "Ideal para linhas de até 0,8mm",
+    "Contém 500 unidades"
+   ],
+   "tags": [
+    "Chicote",
+    "Miçanga",
+    "Vidro"
+   ],
+   "opcoes": {
+    "Cor": [
+     "Amarela",
+     "Areia",
+     "Azul Clara",
+     "Azul Escura",
+     "Camaleão",
+     "Cristal",
+     "Laranja",
+     "Marrom",
+     "Rosa",
+     "Verde",
+     "Vermelha"
+    ]
+   },
+   "variantes": [
+    {
+     "sku": "PA10071",
+     "opts": {
+      "Cor": "Amarela"
+     },
+     "price": 0,
+     "img": "/fotos/5f11caeae6bf.webp"
+    },
+    {
+     "sku": "PA10075",
+     "opts": {
+      "Cor": "Areia"
+     },
+     "price": 0,
+     "img": "/fotos/031f0dbbbaec.webp"
+    },
+    {
+     "sku": "PA10076",
+     "opts": {
+      "Cor": "Azul Clara"
+     },
+     "price": 0,
+     "img": "/fotos/4e6a0f666ca5.webp"
+    },
+    {
+     "sku": "PA10077",
+     "opts": {
+      "Cor": "Azul Escura"
+     },
+     "price": 0,
+     "img": "/fotos/418d8f90872d.webp"
+    },
+    {
+     "sku": "PA10078",
+     "opts": {
+      "Cor": "Camaleão"
+     },
+     "price": 0,
+     "img": "/fotos/20a72ec1d367.webp"
+    },
+    {
+     "sku": "PA10079",
+     "opts": {
+      "Cor": "Cristal"
+     },
+     "price": 0,
+     "img": "/fotos/3c8ab240bade.webp"
+    },
+    {
+     "sku": "PA10080",
+     "opts": {
+      "Cor": "Laranja"
+     },
+     "price": 0,
+     "img": "/fotos/e0d003317857.webp"
+    },
+    {
+     "sku": "PA10081",
+     "opts": {
+      "Cor": "Marrom"
+     },
+     "price": 0,
+     "img": "/fotos/b0b86ccfa4ac.webp"
+    },
+    {
+     "sku": "PA10082",
+     "opts": {
+      "Cor": "Rosa"
+     },
+     "price": 0,
+     "img": "/fotos/5472d33b81fe.webp"
+    },
+    {
+     "sku": "PA10083",
+     "opts": {
+      "Cor": "Verde"
+     },
+     "price": 0,
+     "img": "/fotos/5b82b7574657.webp"
+    },
+    {
+     "sku": "PA10084",
+     "opts": {
+      "Cor": "Vermelha"
+     },
+     "price": 0,
+     "img": "/fotos/41a45a91f7a0.webp"
+    }
+   ],
+   "preco": null,
+   "variacoes": 11,
+   "foto": "/fotos/48949ccdd454.webp",
+   "fotos": [
+    "/fotos/48949ccdd454.webp",
+    "/fotos/5f11caeae6bf.webp",
+    "/fotos/031f0dbbbaec.webp",
+    "/fotos/4e6a0f666ca5.webp",
+    "/fotos/418d8f90872d.webp",
+    "/fotos/20a72ec1d367.webp",
+    "/fotos/3c8ab240bade.webp",
+    "/fotos/e0d003317857.webp",
+    "/fotos/b0b86ccfa4ac.webp",
+    "/fotos/5b82b7574657.webp",
+    "/fotos/41a45a91f7a0.webp",
+    "/fotos/5472d33b81fe.webp"
+   ]
+  },
+  {
+   "n": 12,
+   "handle": "cobre-no-pacote-com-40",
+   "nome": "Cobre Nó",
+   "titulo": "Cobre Nó (Pacote com 40)",
+   "cat": "chicotes",
+   "catSelecao": "acessorios",
+   "gancho": "Pacote com 40 unidades",
+   "frase": "Proteção para os nós do seu sistema de pesca.",
+   "desc": [
+    "Cobre Nó - Com esse acessório, você irá proteger o nó, que faz parte da montagem do seu sistema de pesca. O Cobre Nó irá evitar que o anzol e sujeiras, que possam existir, se enrosquem nos nós existentes e possibilitará uma ponta maior do nó, uma vez que essa ponta será coberta."
+   ],
+   "tags": [
+    "Chicote",
+    "Cobre Nó"
+   ],
+   "opcoes": {
+    "Tamanho": [
+     "P",
+     "M",
+     "G"
+    ],
+    "Cor": [
+     "Amarelo",
+     "Azul Bic",
+     "Azul Claro",
+     "Cinza",
+     "Laranja",
+     "Marrom",
+     "Preto",
+     "Rosa",
+     "Translúcido",
+     "Verde",
+     "Vermelho"
+    ]
+   },
+   "variantes": [
+    {
+     "sku": "PA10092",
+     "opts": {
+      "Tamanho": "P",
+      "Cor": "Amarelo"
+     },
+     "price": 0,
+     "img": "/fotos/8be0ec24f138.webp"
+    },
+    {
+     "sku": "PA10093",
+     "opts": {
+      "Tamanho": "M",
+      "Cor": "Amarelo"
+     },
+     "price": 0,
+     "img": "/fotos/3165772dd2a2.webp"
+    },
+    {
+     "sku": "PA10094",
+     "opts": {
+      "Tamanho": "G",
+      "Cor": "Amarelo"
+     },
+     "price": 0,
+     "img": "/fotos/cd3d932dced2.webp"
+    },
+    {
+     "sku": "PA10098",
+     "opts": {
+      "Tamanho": "P",
+      "Cor": "Azul Bic"
+     },
+     "price": 0,
+     "img": "/fotos/309f5dfe391c.webp"
+    },
+    {
+     "sku": "PA10099",
+     "opts": {
+      "Tamanho": "M",
+      "Cor": "Azul Bic"
+     },
+     "price": 0,
+     "img": "/fotos/34e6b3f39696.webp"
+    },
+    {
+     "sku": "PA10100",
+     "opts": {
+      "Tamanho": "G",
+      "Cor": "Azul Bic"
+     },
+     "price": 0,
+     "img": "/fotos/b6b6a13319b5.webp"
+    },
+    {
+     "sku": "PA10095",
+     "opts": {
+      "Tamanho": "P",
+      "Cor": "Azul Claro"
+     },
+     "price": 0,
+     "img": "/fotos/1a0a10d36aaf.webp"
+    },
+    {
+     "sku": "PA10096",
+     "opts": {
+      "Tamanho": "M",
+      "Cor": "Azul Claro"
+     },
+     "price": 0,
+     "img": "/fotos/172808a4c4fc.webp"
+    },
+    {
+     "sku": "PA10097",
+     "opts": {
+      "Tamanho": "G",
+      "Cor": "Azul Claro"
+     },
+     "price": 0,
+     "img": "/fotos/392e6c41865b.webp"
+    },
+    {
+     "sku": "PA10104",
+     "opts": {
+      "Tamanho": "P",
+      "Cor": "Cinza"
+     },
+     "price": 0,
+     "img": "/fotos/d9ca609f2c9f.webp"
+    },
+    {
+     "sku": "PA10105",
+     "opts": {
+      "Tamanho": "M",
+      "Cor": "Cinza"
+     },
+     "price": 0,
+     "img": "/fotos/948131c65b80.webp"
+    },
+    {
+     "sku": "PA10106",
+     "opts": {
+      "Tamanho": "G",
+      "Cor": "Cinza"
+     },
+     "price": 0,
+     "img": "/fotos/39da62a32ec3.webp"
+    },
+    {
+     "sku": "PA10107",
+     "opts": {
+      "Tamanho": "P",
+      "Cor": "Laranja"
+     },
+     "price": 0,
+     "img": "/fotos/87067de82c81.webp"
+    },
+    {
+     "sku": "PA10108",
+     "opts": {
+      "Tamanho": "M",
+      "Cor": "Laranja"
+     },
+     "price": 0,
+     "img": "/fotos/0a0111e495f9.webp"
+    },
+    {
+     "sku": "PA10109",
+     "opts": {
+      "Tamanho": "G",
+      "Cor": "Laranja"
+     },
+     "price": 0,
+     "img": "/fotos/b670b42d7843.webp"
+    },
+    {
+     "sku": "PA10089",
+     "opts": {
+      "Tamanho": "P",
+      "Cor": "Marrom"
+     },
+     "price": 0,
+     "img": "/fotos/31cefe6178c5.webp"
+    },
+    {
+     "sku": "PA10090",
+     "opts": {
+      "Tamanho": "M",
+      "Cor": "Marrom"
+     },
+     "price": 0,
+     "img": "/fotos/6a712620098c.webp"
+    },
+    {
+     "sku": "PA10091",
+     "opts": {
+      "Tamanho": "G",
+      "Cor": "Marrom"
+     },
+     "price": 0,
+     "img": "/fotos/188b4b9f58f4.webp"
+    },
+    {
+     "sku": "PA10110",
+     "opts": {
+      "Tamanho": "P",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/dd822b53d647.webp"
+    },
+    {
+     "sku": "PA10111",
+     "opts": {
+      "Tamanho": "M",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/7c085160273b.webp"
+    },
+    {
+     "sku": "PA10112",
+     "opts": {
+      "Tamanho": "G",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/0675fa60bfd0.webp"
+    },
+    {
+     "sku": "PA10113",
+     "opts": {
+      "Tamanho": "P",
+      "Cor": "Rosa"
+     },
+     "price": 0,
+     "img": "/fotos/c57a5711b9e9.webp"
+    },
+    {
+     "sku": "PA10114",
+     "opts": {
+      "Tamanho": "M",
+      "Cor": "Rosa"
+     },
+     "price": 0,
+     "img": "/fotos/c4e7870f3e19.webp"
+    },
+    {
+     "sku": "PA10115",
+     "opts": {
+      "Tamanho": "G",
+      "Cor": "Rosa"
+     },
+     "price": 0,
+     "img": "/fotos/1bacf0b80d24.webp"
+    },
+    {
+     "sku": "PA10101",
+     "opts": {
+      "Tamanho": "P",
+      "Cor": "Translúcido"
+     },
+     "price": 0,
+     "img": "/fotos/6486cf50a113.webp"
+    },
+    {
+     "sku": "PA10102",
+     "opts": {
+      "Tamanho": "M",
+      "Cor": "Translúcido"
+     },
+     "price": 0,
+     "img": "/fotos/ac2093eb12bc.webp"
+    },
+    {
+     "sku": "PA10103",
+     "opts": {
+      "Tamanho": "G",
+      "Cor": "Translúcido"
+     },
+     "price": 0,
+     "img": "/fotos/842130dcc175.webp"
+    },
+    {
+     "sku": "PA10119",
+     "opts": {
+      "Tamanho": "P",
+      "Cor": "Verde"
+     },
+     "price": 0,
+     "img": "/fotos/2e1b557c5c80.webp"
+    },
+    {
+     "sku": "PA10120",
+     "opts": {
+      "Tamanho": "M",
+      "Cor": "Verde"
+     },
+     "price": 0,
+     "img": "/fotos/743143967316.webp"
+    },
+    {
+     "sku": "PA10121",
+     "opts": {
+      "Tamanho": "G",
+      "Cor": "Verde"
+     },
+     "price": 0,
+     "img": "/fotos/48f4575a5543.webp"
+    },
+    {
+     "sku": "PA10122",
+     "opts": {
+      "Tamanho": "P",
+      "Cor": "Vermelho"
+     },
+     "price": 0,
+     "img": "/fotos/339e393ec293.webp"
+    },
+    {
+     "sku": "PA10123",
+     "opts": {
+      "Tamanho": "M",
+      "Cor": "Vermelho"
+     },
+     "price": 0,
+     "img": "/fotos/708ae09d079b.webp"
+    },
+    {
+     "sku": "PA10124",
+     "opts": {
+      "Tamanho": "G",
+      "Cor": "Vermelho"
+     },
+     "price": 0,
+     "img": "/fotos/9e78b1458384.webp"
+    }
+   ],
+   "preco": null,
+   "variacoes": 33,
+   "foto": "/fotos/db8271766f68.webp",
+   "fotos": [
+    "/fotos/db8271766f68.webp",
+    "/fotos/47b41ea3abe9.webp",
+    "/fotos/6eb40d65b256.webp",
+    "/fotos/2e41618d17e2.webp",
+    "/fotos/8be0ec24f138.webp",
+    "/fotos/309f5dfe391c.webp",
+    "/fotos/1a0a10d36aaf.webp",
+    "/fotos/6486cf50a113.webp",
+    "/fotos/d9ca609f2c9f.webp",
+    "/fotos/87067de82c81.webp",
+    "/fotos/31cefe6178c5.webp",
+    "/fotos/c57a5711b9e9.webp",
+    "/fotos/b0aa4f8b60a3.webp",
+    "/fotos/2e1b557c5c80.webp",
+    "/fotos/339e393ec293.webp",
+    "/fotos/3165772dd2a2.webp",
+    "/fotos/34e6b3f39696.webp",
+    "/fotos/172808a4c4fc.webp",
+    "/fotos/ac2093eb12bc.webp",
+    "/fotos/948131c65b80.webp",
+    "/fotos/0a0111e495f9.webp",
+    "/fotos/6a712620098c.webp",
+    "/fotos/c4e7870f3e19.webp",
+    "/fotos/df2a12b01ea2.webp",
+    "/fotos/743143967316.webp",
+    "/fotos/708ae09d079b.webp",
+    "/fotos/cd3d932dced2.webp",
+    "/fotos/b6b6a13319b5.webp",
+    "/fotos/392e6c41865b.webp",
+    "/fotos/842130dcc175.webp",
+    "/fotos/39da62a32ec3.webp",
+    "/fotos/b670b42d7843.webp",
+    "/fotos/188b4b9f58f4.webp",
+    "/fotos/1bacf0b80d24.webp",
+    "/fotos/a32d044782b7.webp",
+    "/fotos/48f4575a5543.webp",
+    "/fotos/9e78b1458384.webp",
+    "/fotos/dd822b53d647.webp",
+    "/fotos/7c085160273b.webp",
+    "/fotos/0675fa60bfd0.webp"
+   ]
+  },
+  {
+   "n": 13,
+   "handle": "kit-snap-frances",
+   "nome": "Snap Francês",
+   "titulo": "Kit Snap Francês",
+   "cat": "chicotes",
+   "catSelecao": "acessorios",
+   "gancho": "Conexão prática",
+   "frase": "Troca rápida de chicotes, líderes e arranques.",
+   "desc": [
+    "Snap Frances",
+    "Apresentamos o novo Snap Frances da Chumbada Oficial, desenvolvido atendendo a pedidos específicos de pescadores experientes. Este snap resistente e prático foi projetado para facilitar a troca rápida e eficiente de chicotes, líderes, arranques e qualquer outro sistema de pesca.",
+    "Com uma grande variedade de tamanhos disponíveis, o Snap Frances pode ser adaptado às necessidades individuais de cada pescador. Além disso, oferecemos diferentes capacidades de tração, garantindo que você possa confiar na resistência do snap durante suas pescarias.",
+    "É importante destacar que a eficiência do Snap Frances aumenta ainda mais quando combinado com o Cobrenó da Chumbada Oficial. O Cobrenó é um acessório complementar que proporciona uma conexão ainda mais segura entre o snap e o sistema de pesca, evitando falhas e garantindo a estabilidade durante a captura."
+   ],
+   "tags": [
+    "Chicote",
+    "snap",
+    "Snap Frances",
+    "todos"
+   ],
+   "opcoes": {
+    "Variação": [
+     "34mm 39kg - 8 Unidades",
+     "30mm 30kg - 8 Unidades",
+     "24mm 20kg - 8 Unidades",
+     "21mm 14kg - 10 Unidades",
+     "17mm 12kg - 10 Unidades",
+     "14mm 10kg - 10 Unidades",
+     "10mm 5kg - 10 Unidades"
+    ]
+   },
+   "variantes": [
+    {
+     "sku": "PA10400",
+     "opts": {
+      "Variação": "34mm 39kg - 8 Unidades"
+     },
+     "price": 0,
+     "img": "/fotos/b62506934ca6.webp"
+    },
+    {
+     "sku": "PA10399",
+     "opts": {
+      "Variação": "30mm 30kg - 8 Unidades"
+     },
+     "price": 0,
+     "img": "/fotos/49e4518931e0.webp"
+    },
+    {
+     "sku": "PA10398",
+     "opts": {
+      "Variação": "24mm 20kg - 8 Unidades"
+     },
+     "price": 0,
+     "img": "/fotos/35cc75188337.webp"
+    },
+    {
+     "sku": "PA11956",
+     "opts": {
+      "Variação": "21mm 14kg - 10 Unidades"
+     },
+     "price": 0,
+     "img": "/fotos/8ffa7e62cd81.webp"
+    },
+    {
+     "sku": "PA11955",
+     "opts": {
+      "Variação": "17mm 12kg - 10 Unidades"
+     },
+     "price": 0,
+     "img": null
+    },
+    {
+     "sku": "PA11954",
+     "opts": {
+      "Variação": "14mm 10kg - 10 Unidades"
+     },
+     "price": 0,
+     "img": null
+    },
+    {
+     "sku": "PA10394",
+     "opts": {
+      "Variação": "10mm 5kg - 10 Unidades"
+     },
+     "price": 0,
+     "img": "/fotos/191d6420a397.webp"
+    }
+   ],
+   "preco": null,
+   "variacoes": 7,
+   "foto": "/fotos/4e72d6a57511.webp",
+   "fotos": [
+    "/fotos/4e72d6a57511.webp",
+    "/fotos/b62506934ca6.webp",
+    "/fotos/49e4518931e0.webp",
+    "/fotos/35cc75188337.webp",
+    "/fotos/8ffa7e62cd81.webp",
+    "/fotos/dd9994681e00.webp",
+    "/fotos/908fc1d8e500.webp",
+    "/fotos/191d6420a397.webp"
+   ]
+  },
+  {
+   "n": 14,
+   "handle": "snap-double",
+   "nome": "Snap Double",
+   "titulo": "Kit Snap Double",
+   "cat": "chicotes",
+   "catSelecao": "acessorios",
+   "gancho": "Pacote com 8 unidades",
+   "frase": "Troque acessórios sem precisar cortar a linha.",
+   "desc": [
+    "Snap Double - Snap extremamente versátil, troque os acessórios de sua pesca de forma rápida e prática, seu formato único contém duas aberturas evitando a necessidade de corte de linha.",
+    "Contém: 8 unidades"
+   ],
+   "tags": [
+    "Chicote",
+    "Double",
+    "snap",
+    "todos"
+   ],
+   "opcoes": {
+    "Variação": [
+     "12mm 13Kg - 8 Unidades",
+     "18mm 28Kg - 8 Unidades",
+     "21mm 43Kg - 8 Unidades",
+     "24mm 56Kg - 8 Unidades",
+     "25mm 65Kg - 8 Unidades",
+     "29mm 68Kg - 8 Unidades",
+     "35mm 110Kg - 8 Unidades"
+    ]
+   },
+   "variantes": [
+    {
+     "sku": "PA10302",
+     "opts": {
+      "Variação": "12mm 13Kg - 8 Unidades"
+     },
+     "price": 0,
+     "img": "/fotos/c280acf204e8.webp"
+    },
+    {
+     "sku": "PA10301",
+     "opts": {
+      "Variação": "18mm 28Kg - 8 Unidades"
+     },
+     "price": 0,
+     "img": "/fotos/e499b39e9d71.webp"
+    },
+    {
+     "sku": "6207210438",
+     "opts": {
+      "Variação": "21mm 43Kg - 8 Unidades"
+     },
+     "price": 0,
+     "img": null
+    },
+    {
+     "sku": "PA10300",
+     "opts": {
+      "Variação": "24mm 56Kg - 8 Unidades"
+     },
+     "price": 0,
+     "img": "/fotos/f4fb60e525c6.webp"
+    },
+    {
+     "sku": "6207250658",
+     "opts": {
+      "Variação": "25mm 65Kg - 8 Unidades"
+     },
+     "price": 0,
+     "img": null
+    },
+    {
+     "sku": "6207290688",
+     "opts": {
+      "Variação": "29mm 68Kg - 8 Unidades"
+     },
+     "price": 0,
+     "img": null
+    },
+    {
+     "sku": "6207351108",
+     "opts": {
+      "Variação": "35mm 110Kg - 8 Unidades"
+     },
+     "price": 0,
+     "img": null
+    }
+   ],
+   "preco": null,
+   "variacoes": 7,
+   "foto": "/fotos/f4fb60e525c6.webp",
+   "fotos": [
+    "/fotos/f4fb60e525c6.webp",
+    "/fotos/e499b39e9d71.webp",
+    "/fotos/c280acf204e8.webp"
+   ]
+  },
+  {
+   "n": 15,
+   "handle": "snap-single",
+   "nome": "Snap Single",
+   "titulo": "Kit Snap Single",
+   "cat": "chicotes",
+   "catSelecao": "acessorios",
+   "gancho": "Pacote com 8 unidades",
+   "frase": "Praticidade na troca dos acessórios de pesca.",
+   "desc": [
+    "Snap Single - Snap reforçado e compacto, troque os acessórios de sua pesca de forma rápida e prática com o novo Snap Single.",
+    "Contém: 8 unidades"
+   ],
+   "tags": [
+    "Chicote",
+    "snap",
+    "todos"
+   ],
+   "opcoes": {
+    "Variação": [
+     "8mm 10Kg - 8 Unidades",
+     "13mm 34Kg - 8 Unidades",
+     "18mm 50Kg - 8 Unidades",
+     "20mm 75Kg - 8 Unidades",
+     "22mm 100Kg - 8 Unidades",
+     "29mm 60Kg - 8 Unidades",
+     "34mm 80Kg - 8 Unidades"
+    ]
+   },
+   "variantes": [
+    {
+     "sku": "PA10295",
+     "opts": {
+      "Variação": "8mm 10Kg - 8 Unidades"
+     },
+     "price": 0,
+     "img": "/fotos/11389ecd2406.webp"
+    },
+    {
+     "sku": "PA10296",
+     "opts": {
+      "Variação": "13mm 34Kg - 8 Unidades"
+     },
+     "price": 0,
+     "img": "/fotos/4396be5c5dd9.webp"
+    },
+    {
+     "sku": "PA10297",
+     "opts": {
+      "Variação": "18mm 50Kg - 8 Unidades"
+     },
+     "price": 0,
+     "img": "/fotos/491bdda344c7.webp"
+    },
+    {
+     "sku": "620720075008",
+     "opts": {
+      "Variação": "20mm 75Kg - 8 Unidades"
+     },
+     "price": 0,
+     "img": null
+    },
+    {
+     "sku": "620722100008",
+     "opts": {
+      "Variação": "22mm 100Kg - 8 Unidades"
+     },
+     "price": 0,
+     "img": null
+    },
+    {
+     "sku": "620729060008",
+     "opts": {
+      "Variação": "29mm 60Kg - 8 Unidades"
+     },
+     "price": 0,
+     "img": null
+    },
+    {
+     "sku": "620734080008",
+     "opts": {
+      "Variação": "34mm 80Kg - 8 Unidades"
+     },
+     "price": 0,
+     "img": null
+    }
+   ],
+   "preco": null,
+   "variacoes": 7,
+   "foto": "/fotos/491bdda344c7.webp",
+   "fotos": [
+    "/fotos/491bdda344c7.webp",
+    "/fotos/4396be5c5dd9.webp",
+    "/fotos/11389ecd2406.webp"
+   ]
+  },
+  {
+   "n": 16,
+   "handle": "snap-gota",
+   "nome": "Snap Gota",
+   "titulo": "Kit Snap Gota",
+   "cat": "chicotes",
+   "catSelecao": "acessorios",
+   "gancho": "Formato curvado",
+   "frase": "Espaço interno para o movimento da isca.",
+   "desc": [
+    "Compacto, Resistente e Funcional",
+    "O Kit Snap Gota foi projetado para unir o que há de melhor em funcionalidade, resistência e um design compacto. Seu formato curvado, combinado com um espaço interno grande, oferece um desempenho superior comparado com outros modelos de snaps.",
+    "Essa inovação permite que a isca artificial trabalhe dentro do espaço interno do snap, garantindo uma aparência mais natural e maximizando o movimento original da isca. O resultado é uma apresentação mais realista, atraindo peixes de forma eficiente e aumentando as chances de sucesso na pesca.",
+    "Seja em pesca de água doce ou salgada, o Kit Snap Gota é a escolha perfeita para quem busca performance, praticidade e qualidade."
+   ],
+   "tags": [
+    "Chicote",
+    "snap",
+    "todos"
+   ],
+   "opcoes": {
+    "Tamanho": [
+     "7mm 8kg - 10 Unidades",
+     "7.5mm 10kg - 10 Unidades",
+     "9mm 19kg - 10 Unidades",
+     "12mm 35kg - 10 Unidades",
+     "14mm 30kg - 10 Unidades",
+     "17mm 50kg - 10 Unidades",
+     "20mm 65kg - 10 Unidades"
+    ]
+   },
+   "variantes": [
+    {
+     "sku": "IPA10307",
+     "opts": {
+      "Tamanho": "7mm 8kg - 10 Unidades"
+     },
+     "price": 0,
+     "img": null
+    },
+    {
+     "sku": "620707010010",
+     "opts": {
+      "Tamanho": "7.5mm 10kg - 10 Unidades"
+     },
+     "price": 0,
+     "img": null
+    },
+    {
+     "sku": "PA10303",
+     "opts": {
+      "Tamanho": "9mm 19kg - 10 Unidades"
+     },
+     "price": 0,
+     "img": null
+    },
+    {
+     "sku": "IPA10079",
+     "opts": {
+      "Tamanho": "12mm 35kg - 10 Unidades"
+     },
+     "price": 0,
+     "img": null
+    },
+    {
+     "sku": "PA10304",
+     "opts": {
+      "Tamanho": "14mm 30kg - 10 Unidades"
+     },
+     "price": 0,
+     "img": null
+    },
+    {
+     "sku": "IPA10080",
+     "opts": {
+      "Tamanho": "17mm 50kg - 10 Unidades"
+     },
+     "price": 0,
+     "img": null
+    },
+    {
+     "sku": "IPA10081",
+     "opts": {
+      "Tamanho": "20mm 65kg - 10 Unidades"
+     },
+     "price": 0,
+     "img": null
+    }
+   ],
+   "preco": null,
+   "variacoes": 7,
+   "foto": "/fotos/16d041cf67f6.webp",
+   "fotos": [
+    "/fotos/16d041cf67f6.webp",
+    "/fotos/b4275237414f.webp",
+    "/fotos/ae419ceddc0c.webp",
+    "/fotos/b42f54d7fc70.webp"
+   ]
+  },
+  {
+   "n": 17,
+   "handle": "destorcedor",
+   "nome": "Kit Destorcedor",
+   "titulo": "Kit Destorcedor",
+   "cat": "chicotes",
+   "catSelecao": "acessorios",
+   "gancho": "Diferentes tamanhos",
+   "frase": "Uma conexão prática para a sua montagem.",
+   "desc": [
+    "O Destorcedor para Pesca é um equipamento que foi desenvolvido para facilitar a prática de pesca. Ele é composto por um corpo principal feito de material resistente, como aço inoxidável, e por duas extremidades que se conectam a uma linha de pesca.",
+    "Sua principal função é evitar que a linha de pesca fique torcida, o que pode dificultar a captura de peixes e até mesmo causar danos à linha. Com o Destorcedor, a linha de pesca é mantida reta e livre de torções, o que aumenta a eficiência da pescaria.",
+    "O Destorcedor pode ser utilizado em diversas modalidades de pesca, como a pesca de água doce ou salgada, em rios, lagos ou no mar. Ele é de fácil utilização, bastando apenas conectá-lo à linha de pesca e deixar que ele faça o seu trabalho.",
+    "Além disso, o Destorcedor é um equipamento durável e resistente, capaz de suportar as condições mais adversas de pesca. Seu design compacto e leve permite que ele seja facilmente transportado na caixa de pesca, tornando-se um acessório indispensável para todo pescador.",
+    "Temos 7 tamanhos disponíveis que irão atender a diversas modalidades de pesca:",
+    "Destorcedor 7mm = 6Kg de capacidade",
+    "Destorcedor 9mm = 24Kg de capacidade",
+    "Destorcedor 12mm = 35Kg de capacidade",
+    "Destorcedor 14mm = 55Kg de capacidade",
+    "Destorcedor 15mm = 30Kg de capacidade",
+    "Destorcedor 18mm = 40Kg de capacidade",
+    "Destorcedor 24mm = 80Kg de capacidade"
+   ],
+   "tags": [
+    "destorcedor",
+    "girador",
+    "rotor",
+    "Todos"
+   ],
+   "opcoes": {
+    "Peso Suportado": [
+     "7mm 6kg (14unid)",
+     "9mm 24kg (10unid)",
+     "12mm 35kg (10unid)",
+     "14mm 55kg (10unid)",
+     "15mm 30kg (10unid)",
+     "18mm 40kg (10unid)",
+     "20mm 88kg (10unid)",
+     "24mm 80kg (5unid)"
+    ]
+   },
+   "variantes": [
+    {
+     "sku": "PA10305",
+     "opts": {
+      "Peso Suportado": "7mm 6kg (14unid)"
+     },
+     "price": 0,
+     "img": "/fotos/75c20f4047b6.webp"
+    },
+    {
+     "sku": "D1409024014",
+     "opts": {
+      "Peso Suportado": "9mm 24kg (10unid)"
+     },
+     "price": 0,
+     "img": null
+    },
+    {
+     "sku": "PA10306",
+     "opts": {
+      "Peso Suportado": "12mm 35kg (10unid)"
+     },
+     "price": 0,
+     "img": "/fotos/1269afb5e210.webp"
+    },
+    {
+     "sku": "PA12956",
+     "opts": {
+      "Peso Suportado": "14mm 55kg (10unid)"
+     },
+     "price": 0,
+     "img": null
+    },
+    {
+     "sku": "PA10307",
+     "opts": {
+      "Peso Suportado": "15mm 30kg (10unid)"
+     },
+     "price": 0,
+     "img": null
+    },
+    {
+     "sku": "D1418040010",
+     "opts": {
+      "Peso Suportado": "18mm 40kg (10unid)"
+     },
+     "price": 0,
+     "img": null
+    },
+    {
+     "sku": "D1420088010",
+     "opts": {
+      "Peso Suportado": "20mm 88kg (10unid)"
+     },
+     "price": 0,
+     "img": null
+    },
+    {
+     "sku": "PA10308",
+     "opts": {
+      "Peso Suportado": "24mm 80kg (5unid)"
+     },
+     "price": 0,
+     "img": null
+    }
+   ],
+   "preco": null,
+   "variacoes": 8,
+   "foto": "/fotos/43e40a1049ad.webp",
+   "fotos": [
+    "/fotos/43e40a1049ad.webp",
+    "/fotos/14542ba43187.webp",
+    "/fotos/75c20f4047b6.webp",
+    "/fotos/c2a00be2c9af.webp",
+    "/fotos/1269afb5e210.webp",
+    "/fotos/16411ff845b8.webp",
+    "/fotos/7fe87342ee1c.webp"
+   ]
+  },
+  {
+   "n": 18,
+   "handle": "kit-destorcedor-triplo",
+   "nome": "Destorcedor Triplo",
+   "titulo": "Kit Destorcedor Triplo",
+   "cat": "chicotes",
+   "catSelecao": "acessorios",
+   "gancho": "Montagem versátil",
+   "frase": "Conecte linha, pernada e chumbada.",
+   "desc": [
+    "O Girador Triplo é um equipamento de pesca especialmente projetado para a captura eficaz de peixes como piapara e piauçu. Sua engenhosa concepção permite uma abordagem versátil e altamente sensível para pescarias de espera, atendendo às necessidades tanto dos pescadores experientes como dos iniciantes.",
+    "Este produto apresenta uma configuração inteligente que amplia as chances de sucesso na pesca. O Girador Triplo é utilizado amarrando-se a pernada com anzol no mesmo sentido da linha da carretilha, enquanto a argola perpendicular às linhas é conectada a uma chumbada bola com olhal ou outra qualquer. Isso resulta em um sistema altamente sensível, no qual a sensação de peso da chumbada é minimizada, uma vez que a linha irá ficar desencostada do fundo do local de pesca impedindo que o peixe perceba qualquer resistência indesejada. Essa característica se revela fundamental para evitar que o peixe sinta o peso da chumbada e seja afastado antes de consumir a isca.",
+    "Além disso, o Girador Triplo oferece múltiplas possibilidades de aplicação. Ele pode ser empregado tanto em pescarias de espera, como nas margens de rios e lagos, quanto em pescarias de praia, proporcionando uma excelente experiência de pesca. A capacidade de adaptar o Girador Triplo ao sistema down shot com iscas artificiais amplia ainda mais sua utilidade, demonstrando sua versatilidade em diferentes cenários de pesca.",
+    "Em resumo, o Girador Triplo é um acessório muito bom que aprimora a abordagem de pesca, permitindo uma configuração sensível e discreta para a captura de peixes. Com sua capacidade de minimizar a sensação de peso da chumbada e sua adaptabilidade a diversas técnicas de pesca, esse produto se torna um aliado indispensável para pescadores que buscam maximizar seu sucesso nas aventuras de pesca."
+   ],
+   "tags": [
+    "destorcedor",
+    "girador",
+    "rotor",
+    "Todos",
+    "triplo"
+   ],
+   "opcoes": {
+    "Peso Suportado": [
+     "19mm 16kg (10unid)",
+     "23mm 37kg (8unid)",
+     "28mm 27kg (6unid)",
+     "31mm 48kg (6unid)",
+     "33mm 35kg (6unid)",
+     "36mm 60kg (6unid)"
+    ]
+   },
+   "variantes": [
+    {
+     "sku": "PA10432",
+     "opts": {
+      "Peso Suportado": "19mm 16kg (10unid)"
+     },
+     "price": 0,
+     "img": "/fotos/ea001e7893ab.webp"
+    },
+    {
+     "sku": "PA10433",
+     "opts": {
+      "Peso Suportado": "23mm 37kg (8unid)"
+     },
+     "price": 0,
+     "img": "/fotos/339015cfbeaa.webp"
+    },
+    {
+     "sku": "PA10434",
+     "opts": {
+      "Peso Suportado": "28mm 27kg (6unid)"
+     },
+     "price": 0,
+     "img": "/fotos/c1e5d94bc300.webp"
+    },
+    {
+     "sku": "IPA10078",
+     "opts": {
+      "Peso Suportado": "31mm 48kg (6unid)"
+     },
+     "price": 0,
+     "img": null
+    },
+    {
+     "sku": "PA10435",
+     "opts": {
+      "Peso Suportado": "33mm 35kg (6unid)"
+     },
+     "price": 0,
+     "img": "/fotos/92a50fffac6d.webp"
+    },
+    {
+     "sku": "D1536060006",
+     "opts": {
+      "Peso Suportado": "36mm 60kg (6unid)"
+     },
+     "price": 0,
+     "img": null
+    }
+   ],
+   "preco": null,
+   "variacoes": 6,
+   "foto": "/fotos/17a570746c6a.webp",
+   "fotos": [
+    "/fotos/17a570746c6a.webp",
+    "/fotos/73f1a0557feb.webp",
+    "/fotos/582a6200a1f9.webp",
+    "/fotos/70f72ac940ca.webp",
+    "/fotos/6a0ba2a02968.webp",
+    "/fotos/a3737cdb5129.webp",
+    "/fotos/ea001e7893ab.webp",
+    "/fotos/339015cfbeaa.webp",
+    "/fotos/c1e5d94bc300.webp",
+    "/fotos/92a50fffac6d.webp"
+   ]
+  },
+  {
+   "n": 19,
+   "handle": "chumbada-bola-furada-natural",
+   "nome": "Bola Furada Natural",
+   "titulo": "Chumbada Bola Furada Natural",
+   "cat": "chumbadas",
+   "catSelecao": "chumbadas",
+   "gancho": "Chumbada com furo central",
+   "frase": "Um clássico para compor sua montagem.",
+   "desc": [
+    "Descubra a funcionalidade inteligente da Chumbada Bola Furada, uma escolha estratégica para pescadores que buscam estabilidade e controle da linha em diversas situações. Com um design clássico em formato de bola e um furo central, essa chumbada oferece uma maneira eficaz de manter sua linha no local desejado.",
+    "Recursos Destacados:",
+    "Design de Bola com Furo Central: A Chumbada Bola Furada apresenta um formato de bola com um furo central. Esse furo permite que a linha seja passada através da chumbada, proporcionando um método eficiente para manter sua isca em uma posição específica.",
+    "Estabilidade Aprimorada: Ao passar a linha pelo furo central da chumbada, você obtém maior estabilidade na sua montagem de pesca. Isso permite que sua isca permaneça mais estável na água, atraindo peixes com mais eficácia.",
+    "Controle Preciso da Linha: O furo central não apenas aumenta a estabilidade, mas também oferece controle preciso sobre a direção da linha. Isso é particularmente benéfico ao ajustar a posição da isca em ambientes com correntezas ou águas turbulentas.",
+    "Adaptação Flexível: A Chumbada Bola Furada é adequada para uma variedade de situações de pesca, tornando-se uma ferramenta versátil para diferentes tipos de técnicas.",
+    "Facilidade de Utilização: A simplicidade do design da chumbada a torna fácil de usar. Prender a linha através do furo central é uma tarefa rápida, permitindo que você esteja pronto para pescar em um instante.",
+    "Aproveite os benefícios da estabilidade e controle oferecidos pela Chumbada Bola Furada. Adquira a sua hoje mesmo e descubra como esse design inteligente pode melhorar suas sessões de pesca, mantendo sua linha na posição ideal e aumentando suas chances de captura."
+   ],
+   "tags": [
+    "bola furada",
+    "natural"
+   ],
+   "opcoes": {
+    "Variações": [
+     "Furada"
+    ],
+    "Peso da Chumbada": [
+     "5g",
+     "10g",
+     "15g",
+     "20g",
+     "25g",
+     "30g",
+     "35g",
+     "40g",
+     "45g",
+     "50g",
+     "55g",
+     "60g",
+     "70g",
+     "80g",
+     "90g",
+     "100g",
+     "110g",
+     "120g",
+     "130g",
+     "140g",
+     "150g",
+     "160g"
+    ],
+    "Cor": [
+     "Natural",
+     "Amarelo",
+     "Laranja",
+     "Preto",
+     "Vermelho"
+    ]
+   },
+   "variantes": [
+    {
+     "sku": "40110208081243",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "5g",
+      "Cor": "Natural"
+     },
+     "price": 0,
+     "img": "/fotos/f13a6de39b86.webp"
+    },
+    {
+     "sku": "40110208081244",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "10g",
+      "Cor": "Natural"
+     },
+     "price": 0,
+     "img": "/fotos/f13a6de39b86.webp"
+    },
+    {
+     "sku": "40110208081245",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "15g",
+      "Cor": "Natural"
+     },
+     "price": 0,
+     "img": "/fotos/f13a6de39b86.webp"
+    },
+    {
+     "sku": "40110208081246",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "20g",
+      "Cor": "Natural"
+     },
+     "price": 0,
+     "img": "/fotos/f13a6de39b86.webp"
+    },
+    {
+     "sku": "40110208081247",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "25g",
+      "Cor": "Natural"
+     },
+     "price": 0,
+     "img": "/fotos/f13a6de39b86.webp"
+    },
+    {
+     "sku": "401005070100030",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "30g",
+      "Cor": "Natural"
+     },
+     "price": 0,
+     "img": "/fotos/f13a6de39b86.webp"
+    },
+    {
+     "sku": "40100507010035",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "35g",
+      "Cor": "Natural"
+     },
+     "price": 0,
+     "img": "/fotos/f13a6de39b86.webp"
+    },
+    {
+     "sku": "40110208081248",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "40g",
+      "Cor": "Natural"
+     },
+     "price": 0,
+     "img": "/fotos/f13a6de39b86.webp"
+    },
+    {
+     "sku": "40100507010045",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "45g",
+      "Cor": "Natural"
+     },
+     "price": 0,
+     "img": "/fotos/f13a6de39b86.webp"
+    },
+    {
+     "sku": "40110208081249",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "50g",
+      "Cor": "Natural"
+     },
+     "price": 0,
+     "img": "/fotos/f13a6de39b86.webp"
+    },
+    {
+     "sku": "40100507010055",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "55g",
+      "Cor": "Natural"
+     },
+     "price": 0,
+     "img": "/fotos/f13a6de39b86.webp"
+    },
+    {
+     "sku": "40110208081250",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "60g",
+      "Cor": "Natural"
+     },
+     "price": 0,
+     "img": "/fotos/f13a6de39b86.webp"
+    },
+    {
+     "sku": "40110208081251",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "70g",
+      "Cor": "Natural"
+     },
+     "price": 0,
+     "img": "/fotos/f13a6de39b86.webp"
+    },
+    {
+     "sku": "40110208081252",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "80g",
+      "Cor": "Natural"
+     },
+     "price": 0,
+     "img": "/fotos/f13a6de39b86.webp"
+    },
+    {
+     "sku": "40110208081253",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "90g",
+      "Cor": "Natural"
+     },
+     "price": 0,
+     "img": "/fotos/f13a6de39b86.webp"
+    },
+    {
+     "sku": "40110208081254",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "100g",
+      "Cor": "Natural"
+     },
+     "price": 0,
+     "img": "/fotos/f13a6de39b86.webp"
+    },
+    {
+     "sku": "40110208081255",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "110g",
+      "Cor": "Natural"
+     },
+     "price": 0,
+     "img": "/fotos/f13a6de39b86.webp"
+    },
+    {
+     "sku": "40110208081256",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "120g",
+      "Cor": "Natural"
+     },
+     "price": 0,
+     "img": "/fotos/f13a6de39b86.webp"
+    },
+    {
+     "sku": "40110208081257",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "130g",
+      "Cor": "Natural"
+     },
+     "price": 0,
+     "img": "/fotos/f13a6de39b86.webp"
+    },
+    {
+     "sku": "40110208081258",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "140g",
+      "Cor": "Natural"
+     },
+     "price": 0,
+     "img": "/fotos/f13a6de39b86.webp"
+    },
+    {
+     "sku": "40110208081259",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "150g",
+      "Cor": "Natural"
+     },
+     "price": 0,
+     "img": "/fotos/f13a6de39b86.webp"
+    },
+    {
+     "sku": "40110208081260",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "160g",
+      "Cor": "Natural"
+     },
+     "price": 0,
+     "img": "/fotos/f13a6de39b86.webp"
+    },
+    {
+     "sku": "40110208081351",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "5g",
+      "Cor": "Amarelo"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-amarela.webp"
+    },
+    {
+     "sku": "40110208081352",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "10g",
+      "Cor": "Amarelo"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-amarela.webp"
+    },
+    {
+     "sku": "40110208081353",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "15g",
+      "Cor": "Amarelo"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-amarela.webp"
+    },
+    {
+     "sku": "40110208081354",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "20g",
+      "Cor": "Amarelo"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-amarela.webp"
+    },
+    {
+     "sku": "40110208081355",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "25g",
+      "Cor": "Amarelo"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-amarela.webp"
+    },
+    {
+     "sku": "401005080600030",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "30g",
+      "Cor": "Amarelo"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-amarela.webp"
+    },
+    {
+     "sku": "40100508060035",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "35g",
+      "Cor": "Amarelo"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-amarela.webp"
+    },
+    {
+     "sku": "40110208081356",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "40g",
+      "Cor": "Amarelo"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-amarela.webp"
+    },
+    {
+     "sku": "40100508060045",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "45g",
+      "Cor": "Amarelo"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-amarela.webp"
+    },
+    {
+     "sku": "40110208081357",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "50g",
+      "Cor": "Amarelo"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-amarela.webp"
+    },
+    {
+     "sku": "40100508060055",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "55g",
+      "Cor": "Amarelo"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-amarela.webp"
+    },
+    {
+     "sku": "40110208081358",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "60g",
+      "Cor": "Amarelo"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-amarela.webp"
+    },
+    {
+     "sku": "40110208081359",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "70g",
+      "Cor": "Amarelo"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-amarela.webp"
+    },
+    {
+     "sku": "40110208081360",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "80g",
+      "Cor": "Amarelo"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-amarela.webp"
+    },
+    {
+     "sku": "40110208081361",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "90g",
+      "Cor": "Amarelo"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-amarela.webp"
+    },
+    {
+     "sku": "40110208081362",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "100g",
+      "Cor": "Amarelo"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-amarela.webp"
+    },
+    {
+     "sku": "40110208081363",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "110g",
+      "Cor": "Amarelo"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-amarela.webp"
+    },
+    {
+     "sku": "40110208081364",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "120g",
+      "Cor": "Amarelo"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-amarela.webp"
+    },
+    {
+     "sku": "40110208081365",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "130g",
+      "Cor": "Amarelo"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-amarela.webp"
+    },
+    {
+     "sku": "40110208081366",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "140g",
+      "Cor": "Amarelo"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-amarela.webp"
+    },
+    {
+     "sku": "40110208081367",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "150g",
+      "Cor": "Amarelo"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-amarela.webp"
+    },
+    {
+     "sku": "40110208081368",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "160g",
+      "Cor": "Amarelo"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-amarela.webp"
+    },
+    {
+     "sku": "40110208081333",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "5g",
+      "Cor": "Laranja"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-laranja.webp"
+    },
+    {
+     "sku": "40110208081334",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "10g",
+      "Cor": "Laranja"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-laranja.webp"
+    },
+    {
+     "sku": "40110208081335",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "15g",
+      "Cor": "Laranja"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-laranja.webp"
+    },
+    {
+     "sku": "40110208081336",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "20g",
+      "Cor": "Laranja"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-laranja.webp"
+    },
+    {
+     "sku": "40110208081337",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "25g",
+      "Cor": "Laranja"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-laranja.webp"
+    },
+    {
+     "sku": "401005080500030",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "30g",
+      "Cor": "Laranja"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-laranja.webp"
+    },
+    {
+     "sku": "40100508050035",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "35g",
+      "Cor": "Laranja"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-laranja.webp"
+    },
+    {
+     "sku": "40110208081338",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "40g",
+      "Cor": "Laranja"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-laranja.webp"
+    },
+    {
+     "sku": "40100508050045",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "45g",
+      "Cor": "Laranja"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-laranja.webp"
+    },
+    {
+     "sku": "40110208081339",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "50g",
+      "Cor": "Laranja"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-laranja.webp"
+    },
+    {
+     "sku": "40100508050055",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "55g",
+      "Cor": "Laranja"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-laranja.webp"
+    },
+    {
+     "sku": "40110208081340",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "60g",
+      "Cor": "Laranja"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-laranja.webp"
+    },
+    {
+     "sku": "40110208081341",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "70g",
+      "Cor": "Laranja"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-laranja.webp"
+    },
+    {
+     "sku": "40110208081342",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "80g",
+      "Cor": "Laranja"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-laranja.webp"
+    },
+    {
+     "sku": "40110208081343",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "90g",
+      "Cor": "Laranja"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-laranja.webp"
+    },
+    {
+     "sku": "40110208081344",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "100g",
+      "Cor": "Laranja"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-laranja.webp"
+    },
+    {
+     "sku": "40110208081345",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "110g",
+      "Cor": "Laranja"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-laranja.webp"
+    },
+    {
+     "sku": "40110208081346",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "120g",
+      "Cor": "Laranja"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-laranja.webp"
+    },
+    {
+     "sku": "40110208081347",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "130g",
+      "Cor": "Laranja"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-laranja.webp"
+    },
+    {
+     "sku": "40110208081348",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "140g",
+      "Cor": "Laranja"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-laranja.webp"
+    },
+    {
+     "sku": "40110208081349",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "150g",
+      "Cor": "Laranja"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-laranja.webp"
+    },
+    {
+     "sku": "40110208081350",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "160g",
+      "Cor": "Laranja"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-laranja.webp"
+    },
+    {
+     "sku": "40110208081279",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "5g",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-preta.webp"
+    },
+    {
+     "sku": "40110208081280",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "10g",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-preta.webp"
+    },
+    {
+     "sku": "40110208081281",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "15g",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-preta.webp"
+    },
+    {
+     "sku": "40110208081282",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "20g",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-preta.webp"
+    },
+    {
+     "sku": "40110208081283",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "25g",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-preta.webp"
+    },
+    {
+     "sku": "401005080200030",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "30g",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-preta.webp"
+    },
+    {
+     "sku": "40100508020035",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "35g",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-preta.webp"
+    },
+    {
+     "sku": "40110208081284",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "40g",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-preta.webp"
+    },
+    {
+     "sku": "40100508020045",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "45g",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-preta.webp"
+    },
+    {
+     "sku": "40110208081285",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "50g",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-preta.webp"
+    },
+    {
+     "sku": "40100508020055",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "55g",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-preta.webp"
+    },
+    {
+     "sku": "40110208081286",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "60g",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-preta.webp"
+    },
+    {
+     "sku": "40110208081287",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "70g",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-preta.webp"
+    },
+    {
+     "sku": "40110208081288",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "80g",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-preta.webp"
+    },
+    {
+     "sku": "40110208081289",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "90g",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-preta.webp"
+    },
+    {
+     "sku": "40110208081290",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "100g",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-preta.webp"
+    },
+    {
+     "sku": "40110208081291",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "110g",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-preta.webp"
+    },
+    {
+     "sku": "40110208081292",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "120g",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-preta.webp"
+    },
+    {
+     "sku": "40110208081293",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "130g",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-preta.webp"
+    },
+    {
+     "sku": "40110208081294",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "140g",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-preta.webp"
+    },
+    {
+     "sku": "40110208081295",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "150g",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-preta.webp"
+    },
+    {
+     "sku": "40110208081296",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "160g",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-preta.webp"
+    },
+    {
+     "sku": "40110208081315",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "5g",
+      "Cor": "Vermelho"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-vermelha.webp"
+    },
+    {
+     "sku": "40110208081316",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "10g",
+      "Cor": "Vermelho"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-vermelha.webp"
+    },
+    {
+     "sku": "40110208081317",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "15g",
+      "Cor": "Vermelho"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-vermelha.webp"
+    },
+    {
+     "sku": "40110208081318",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "20g",
+      "Cor": "Vermelho"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-vermelha.webp"
+    },
+    {
+     "sku": "40110208081319",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "25g",
+      "Cor": "Vermelho"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-vermelha.webp"
+    },
+    {
+     "sku": "401005080400030",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "30g",
+      "Cor": "Vermelho"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-vermelha.webp"
+    },
+    {
+     "sku": "40100508040035",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "35g",
+      "Cor": "Vermelho"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-vermelha.webp"
+    },
+    {
+     "sku": "40110208081320",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "40g",
+      "Cor": "Vermelho"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-vermelha.webp"
+    },
+    {
+     "sku": "40100508040045",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "45g",
+      "Cor": "Vermelho"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-vermelha.webp"
+    },
+    {
+     "sku": "40110208081321",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "50g",
+      "Cor": "Vermelho"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-vermelha.webp"
+    },
+    {
+     "sku": "40100508040055",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "55g",
+      "Cor": "Vermelho"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-vermelha.webp"
+    },
+    {
+     "sku": "40110208081322",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "60g",
+      "Cor": "Vermelho"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-vermelha.webp"
+    },
+    {
+     "sku": "40110208081323",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "70g",
+      "Cor": "Vermelho"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-vermelha.webp"
+    },
+    {
+     "sku": "40110208081324",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "80g",
+      "Cor": "Vermelho"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-vermelha.webp"
+    },
+    {
+     "sku": "40110208081325",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "90g",
+      "Cor": "Vermelho"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-vermelha.webp"
+    },
+    {
+     "sku": "40110208081326",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "100g",
+      "Cor": "Vermelho"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-vermelha.webp"
+    },
+    {
+     "sku": "40110208081327",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "110g",
+      "Cor": "Vermelho"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-vermelha.webp"
+    },
+    {
+     "sku": "40110208081328",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "120g",
+      "Cor": "Vermelho"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-vermelha.webp"
+    },
+    {
+     "sku": "40110208081329",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "130g",
+      "Cor": "Vermelho"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-vermelha.webp"
+    },
+    {
+     "sku": "40110208081330",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "140g",
+      "Cor": "Vermelho"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-vermelha.webp"
+    },
+    {
+     "sku": "40110208081331",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "150g",
+      "Cor": "Vermelho"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-vermelha.webp"
+    },
+    {
+     "sku": "40110208081332",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "160g",
+      "Cor": "Vermelho"
+     },
+     "price": 0,
+     "img": "/fotos/cor-bola-furada-vermelha.webp"
+    }
+   ],
+   "preco": null,
+   "variacoes": 110,
+   "foto": "/fotos/f13a6de39b86.webp",
+   "fotos": [
+    "/fotos/f13a6de39b86.webp",
+    "/fotos/cor-bola-furada-amarela.webp",
+    "/fotos/cor-bola-furada-laranja.webp",
+    "/fotos/cor-bola-furada-preta.webp",
+    "/fotos/cor-bola-furada-vermelha.webp"
+   ]
+  },
+  {
+   "n": 20,
+   "handle": "chumbada-oliva-natural",
+   "nome": "Oliva Natural",
+   "titulo": "Chumbada Oliva Natural",
+   "cat": "chumbadas",
+   "catSelecao": "chumbadas",
+   "gancho": "Chumbada oliva",
+   "frase": "Escolha o peso para a sua pescaria.",
+   "desc": [
+    "Chumbada Oliva"
+   ],
+   "tags": [
+    "natural",
+    "Oliva"
+   ],
+   "opcoes": {
+    "Variações": [
+     "Furada"
+    ],
+    "Peso da Chumbada": [
+     "1g",
+     "5g",
+     "8g",
+     "10g",
+     "15g",
+     "20g",
+     "25g",
+     "30g",
+     "35g",
+     "40g",
+     "45g",
+     "50g",
+     "55g",
+     "60g",
+     "70g",
+     "80g",
+     "90g",
+     "100g",
+     "110g",
+     "120g",
+     "130g",
+     "140g",
+     "150g"
+    ],
+    "Cor": [
+     "Natural",
+     "Amarelo",
+     "Laranja",
+     "Preto",
+     "Vermelho"
+    ]
+   },
+   "variantes": [
+    {
+     "sku": "40360507010006",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "1g",
+      "Cor": "Natural"
+     },
+     "price": 0,
+     "img": "/fotos/69937333c839.webp"
+    },
+    {
+     "sku": "40360508084894",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "5g",
+      "Cor": "Natural"
+     },
+     "price": 0,
+     "img": "/fotos/69937333c839.webp"
+    },
+    {
+     "sku": "40360507010002",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "8g",
+      "Cor": "Natural"
+     },
+     "price": 0,
+     "img": "/fotos/69937333c839.webp"
+    },
+    {
+     "sku": "40360507014895",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "10g",
+      "Cor": "Natural"
+     },
+     "price": 0,
+     "img": "/fotos/69937333c839.webp"
+    },
+    {
+     "sku": "40360508084896",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "15g",
+      "Cor": "Natural"
+     },
+     "price": 0,
+     "img": "/fotos/69937333c839.webp"
+    },
+    {
+     "sku": "40360508084897",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "20g",
+      "Cor": "Natural"
+     },
+     "price": 0,
+     "img": "/fotos/69937333c839.webp"
+    },
+    {
+     "sku": "40360508084898",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "25g",
+      "Cor": "Natural"
+     },
+     "price": 0,
+     "img": "/fotos/69937333c839.webp"
+    },
+    {
+     "sku": "40360508084899",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "30g",
+      "Cor": "Natural"
+     },
+     "price": 0,
+     "img": "/fotos/69937333c839.webp"
+    },
+    {
+     "sku": "40360507010035",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "35g",
+      "Cor": "Natural"
+     },
+     "price": 0,
+     "img": "/fotos/69937333c839.webp"
+    },
+    {
+     "sku": "40360508084900",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "40g",
+      "Cor": "Natural"
+     },
+     "price": 0,
+     "img": "/fotos/69937333c839.webp"
+    },
+    {
+     "sku": "40360507010045",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "45g",
+      "Cor": "Natural"
+     },
+     "price": 0,
+     "img": "/fotos/69937333c839.webp"
+    },
+    {
+     "sku": "40360508084901",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "50g",
+      "Cor": "Natural"
+     },
+     "price": 0,
+     "img": "/fotos/69937333c839.webp"
+    },
+    {
+     "sku": "40360507010055",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "55g",
+      "Cor": "Natural"
+     },
+     "price": 0,
+     "img": "/fotos/69937333c839.webp"
+    },
+    {
+     "sku": "40360508084902",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "60g",
+      "Cor": "Natural"
+     },
+     "price": 0,
+     "img": "/fotos/69937333c839.webp"
+    },
+    {
+     "sku": "40360508084903",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "70g",
+      "Cor": "Natural"
+     },
+     "price": 0,
+     "img": "/fotos/69937333c839.webp"
+    },
+    {
+     "sku": "40360508084904",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "80g",
+      "Cor": "Natural"
+     },
+     "price": 0,
+     "img": "/fotos/69937333c839.webp"
+    },
+    {
+     "sku": "40360508084905",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "90g",
+      "Cor": "Natural"
+     },
+     "price": 0,
+     "img": "/fotos/69937333c839.webp"
+    },
+    {
+     "sku": "40350308084906",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "100g",
+      "Cor": "Natural"
+     },
+     "price": 0,
+     "img": "/fotos/69937333c839.webp"
+    },
+    {
+     "sku": "40360508074907",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "110g",
+      "Cor": "Natural"
+     },
+     "price": 0,
+     "img": "/fotos/69937333c839.webp"
+    },
+    {
+     "sku": "40360508074908",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "120g",
+      "Cor": "Natural"
+     },
+     "price": 0,
+     "img": "/fotos/69937333c839.webp"
+    },
+    {
+     "sku": "40360508074909",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "130g",
+      "Cor": "Natural"
+     },
+     "price": 0,
+     "img": "/fotos/69937333c839.webp"
+    },
+    {
+     "sku": "40360508074910",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "140g",
+      "Cor": "Natural"
+     },
+     "price": 0,
+     "img": "/fotos/69937333c839.webp"
+    },
+    {
+     "sku": "40360508084911",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "150g",
+      "Cor": "Natural"
+     },
+     "price": 0,
+     "img": "/fotos/69937333c839.webp"
+    },
+    {
+     "sku": "40360508085002",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "5g",
+      "Cor": "Amarelo"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-amarela.webp"
+    },
+    {
+     "sku": "4036070028",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "8g",
+      "Cor": "Amarelo"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-amarela.webp"
+    },
+    {
+     "sku": "40350308085003",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "10g",
+      "Cor": "Amarelo"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-amarela.webp"
+    },
+    {
+     "sku": "40360508085004",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "15g",
+      "Cor": "Amarelo"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-amarela.webp"
+    },
+    {
+     "sku": "40360508085005",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "20g",
+      "Cor": "Amarelo"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-amarela.webp"
+    },
+    {
+     "sku": "40360508085006",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "25g",
+      "Cor": "Amarelo"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-amarela.webp"
+    },
+    {
+     "sku": "40360508085007",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "30g",
+      "Cor": "Amarelo"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-amarela.webp"
+    },
+    {
+     "sku": "40360508060035",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "35g",
+      "Cor": "Amarelo"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-amarela.webp"
+    },
+    {
+     "sku": "40360508085008",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "40g",
+      "Cor": "Amarelo"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-amarela.webp"
+    },
+    {
+     "sku": "40360508060045",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "45g",
+      "Cor": "Amarelo"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-amarela.webp"
+    },
+    {
+     "sku": "40360508085009",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "50g",
+      "Cor": "Amarelo"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-amarela.webp"
+    },
+    {
+     "sku": "40360508060055",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "55g",
+      "Cor": "Amarelo"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-amarela.webp"
+    },
+    {
+     "sku": "40360508085010",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "60g",
+      "Cor": "Amarelo"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-amarela.webp"
+    },
+    {
+     "sku": "40360508085011",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "70g",
+      "Cor": "Amarelo"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-amarela.webp"
+    },
+    {
+     "sku": "40360508085012",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "80g",
+      "Cor": "Amarelo"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-amarela.webp"
+    },
+    {
+     "sku": "40360508085013",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "90g",
+      "Cor": "Amarelo"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-amarela.webp"
+    },
+    {
+     "sku": "40350308085014",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "100g",
+      "Cor": "Amarelo"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-amarela.webp"
+    },
+    {
+     "sku": "40360508075015",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "110g",
+      "Cor": "Amarelo"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-amarela.webp"
+    },
+    {
+     "sku": "40360508075016",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "120g",
+      "Cor": "Amarelo"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-amarela.webp"
+    },
+    {
+     "sku": "40360508075017",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "130g",
+      "Cor": "Amarelo"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-amarela.webp"
+    },
+    {
+     "sku": "40360508075018",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "140g",
+      "Cor": "Amarelo"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-amarela.webp"
+    },
+    {
+     "sku": "40360508085019",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "150g",
+      "Cor": "Amarelo"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-amarela.webp"
+    },
+    {
+     "sku": "40360508084984",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "5g",
+      "Cor": "Laranja"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-laranja.webp"
+    },
+    {
+     "sku": "4036070025",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "8g",
+      "Cor": "Laranja"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-laranja.webp"
+    },
+    {
+     "sku": "40350308084985",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "10g",
+      "Cor": "Laranja"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-laranja.webp"
+    },
+    {
+     "sku": "40360508084986",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "15g",
+      "Cor": "Laranja"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-laranja.webp"
+    },
+    {
+     "sku": "40360508084987",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "20g",
+      "Cor": "Laranja"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-laranja.webp"
+    },
+    {
+     "sku": "40360508084988",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "25g",
+      "Cor": "Laranja"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-laranja.webp"
+    },
+    {
+     "sku": "40360508084989",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "30g",
+      "Cor": "Laranja"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-laranja.webp"
+    },
+    {
+     "sku": "40360508050035",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "35g",
+      "Cor": "Laranja"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-laranja.webp"
+    },
+    {
+     "sku": "40360508084990",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "40g",
+      "Cor": "Laranja"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-laranja.webp"
+    },
+    {
+     "sku": "40360508050045",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "45g",
+      "Cor": "Laranja"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-laranja.webp"
+    },
+    {
+     "sku": "40360508084991",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "50g",
+      "Cor": "Laranja"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-laranja.webp"
+    },
+    {
+     "sku": "40360508050055",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "55g",
+      "Cor": "Laranja"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-laranja.webp"
+    },
+    {
+     "sku": "40360508084992",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "60g",
+      "Cor": "Laranja"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-laranja.webp"
+    },
+    {
+     "sku": "40360508084993",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "70g",
+      "Cor": "Laranja"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-laranja.webp"
+    },
+    {
+     "sku": "40360508084994",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "80g",
+      "Cor": "Laranja"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-laranja.webp"
+    },
+    {
+     "sku": "40360508084995",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "90g",
+      "Cor": "Laranja"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-laranja.webp"
+    },
+    {
+     "sku": "40350308084996",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "100g",
+      "Cor": "Laranja"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-laranja.webp"
+    },
+    {
+     "sku": "40360508074997",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "110g",
+      "Cor": "Laranja"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-laranja.webp"
+    },
+    {
+     "sku": "40360508074998",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "120g",
+      "Cor": "Laranja"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-laranja.webp"
+    },
+    {
+     "sku": "40360508074999",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "130g",
+      "Cor": "Laranja"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-laranja.webp"
+    },
+    {
+     "sku": "40360508075000",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "140g",
+      "Cor": "Laranja"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-laranja.webp"
+    },
+    {
+     "sku": "40360508085001",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "150g",
+      "Cor": "Laranja"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-laranja.webp"
+    },
+    {
+     "sku": "40360508084930",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "5g",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-preta.webp"
+    },
+    {
+     "sku": "4036070024",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "8g",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-preta.webp"
+    },
+    {
+     "sku": "40360507014931",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "10g",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-preta.webp"
+    },
+    {
+     "sku": "40360508084932",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "15g",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-preta.webp"
+    },
+    {
+     "sku": "40360508084933",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "20g",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-preta.webp"
+    },
+    {
+     "sku": "40360508084934",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "25g",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-preta.webp"
+    },
+    {
+     "sku": "40360508084935",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "30g",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-preta.webp"
+    },
+    {
+     "sku": "40360508020035",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "35g",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-preta.webp"
+    },
+    {
+     "sku": "40360508084936",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "40g",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-preta.webp"
+    },
+    {
+     "sku": "40360508020045",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "45g",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-preta.webp"
+    },
+    {
+     "sku": "40360508084937",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "50g",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-preta.webp"
+    },
+    {
+     "sku": "40360508020055",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "55g",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-preta.webp"
+    },
+    {
+     "sku": "40360508084938",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "60g",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-preta.webp"
+    },
+    {
+     "sku": "40360508084939",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "70g",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-preta.webp"
+    },
+    {
+     "sku": "40360508084940",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "80g",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-preta.webp"
+    },
+    {
+     "sku": "40360508084941",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "90g",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-preta.webp"
+    },
+    {
+     "sku": "40350308084942",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "100g",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-preta.webp"
+    },
+    {
+     "sku": "40360508074943",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "110g",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-preta.webp"
+    },
+    {
+     "sku": "40360508074944",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "120g",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-preta.webp"
+    },
+    {
+     "sku": "40360508074945",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "130g",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-preta.webp"
+    },
+    {
+     "sku": "40360508074946",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "140g",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-preta.webp"
+    },
+    {
+     "sku": "40360508084947",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "150g",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-preta.webp"
+    },
+    {
+     "sku": "40360508084966",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "5g",
+      "Cor": "Vermelho"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-vermelha.webp"
+    },
+    {
+     "sku": "4036070021",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "8g",
+      "Cor": "Vermelho"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-vermelha.webp"
+    },
+    {
+     "sku": "40360508074967",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "10g",
+      "Cor": "Vermelho"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-vermelha.webp"
+    },
+    {
+     "sku": "40360508084968",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "15g",
+      "Cor": "Vermelho"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-vermelha.webp"
+    },
+    {
+     "sku": "40360508084969",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "20g",
+      "Cor": "Vermelho"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-vermelha.webp"
+    },
+    {
+     "sku": "40360508084970",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "25g",
+      "Cor": "Vermelho"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-vermelha.webp"
+    },
+    {
+     "sku": "40360508084971",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "30g",
+      "Cor": "Vermelho"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-vermelha.webp"
+    },
+    {
+     "sku": "40360508040035",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "35g",
+      "Cor": "Vermelho"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-vermelha.webp"
+    },
+    {
+     "sku": "40360508084972",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "40g",
+      "Cor": "Vermelho"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-vermelha.webp"
+    },
+    {
+     "sku": "40360508040045",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "45g",
+      "Cor": "Vermelho"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-vermelha.webp"
+    },
+    {
+     "sku": "40360508084973",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "50g",
+      "Cor": "Vermelho"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-vermelha.webp"
+    },
+    {
+     "sku": "40360508040055",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "55g",
+      "Cor": "Vermelho"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-vermelha.webp"
+    },
+    {
+     "sku": "40360508084974",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "60g",
+      "Cor": "Vermelho"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-vermelha.webp"
+    },
+    {
+     "sku": "40360508084975",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "70g",
+      "Cor": "Vermelho"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-vermelha.webp"
+    },
+    {
+     "sku": "40360508084976",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "80g",
+      "Cor": "Vermelho"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-vermelha.webp"
+    },
+    {
+     "sku": "40360508084977",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "90g",
+      "Cor": "Vermelho"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-vermelha.webp"
+    },
+    {
+     "sku": "40350308084978",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "100g",
+      "Cor": "Vermelho"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-vermelha.webp"
+    },
+    {
+     "sku": "40360508074979",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "110g",
+      "Cor": "Vermelho"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-vermelha.webp"
+    },
+    {
+     "sku": "40360508074980",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "120g",
+      "Cor": "Vermelho"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-vermelha.webp"
+    },
+    {
+     "sku": "40360508074981",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "130g",
+      "Cor": "Vermelho"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-vermelha.webp"
+    },
+    {
+     "sku": "40360508084982",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "140g",
+      "Cor": "Vermelho"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-vermelha.webp"
+    },
+    {
+     "sku": "40360508084983",
+     "opts": {
+      "Variações": "Furada",
+      "Peso da Chumbada": "150g",
+      "Cor": "Vermelho"
+     },
+     "price": 0,
+     "img": "/fotos/cor-oliva-vermelha.webp"
+    }
+   ],
+   "preco": null,
+   "variacoes": 111,
+   "foto": "/fotos/69937333c839.webp",
+   "fotos": [
+    "/fotos/69937333c839.webp",
+    "/fotos/cor-oliva-amarela.webp",
+    "/fotos/cor-oliva-laranja.webp",
+    "/fotos/cor-oliva-preta.webp",
+    "/fotos/cor-oliva-vermelha.webp"
+   ]
+  },
+  {
+   "n": 21,
+   "handle": "chumbada-poita-natural",
+   "nome": "Poita Natural",
+   "titulo": "Chumbada Poita Natural",
+   "cat": "chumbadas",
+   "catSelecao": "chumbadas",
+   "gancho": "Chumbada poita",
+   "frase": "Conheça as opções da linha natural.",
+   "desc": [
+    "Chumbada Poita"
+   ],
+   "tags": [
+    "natural",
+    "poita"
+   ],
+   "opcoes": {
+    "Variações": [
+     "Ilhós"
+    ],
+    "Peso da Chumbada": [
+     "15g",
+     "20g",
+     "25g",
+     "30g",
+     "35g",
+     "40g",
+     "45g",
+     "50g",
+     "55g",
+     "60g"
+    ],
+    "Cor": [
+     "Natural",
+     "Amarelo",
+     "Laranja",
+     "Preto",
+     "Vermelho"
+    ]
+   },
+   "variantes": [
+    {
+     "sku": "4061070011",
+     "opts": {
+      "Variações": "Ilhós",
+      "Peso da Chumbada": "15g",
+      "Cor": "Natural"
+     },
+     "price": 0,
+     "img": "/fotos/891126f8fb2f.webp"
+    },
+    {
+     "sku": "4061070012",
+     "opts": {
+      "Variações": "Ilhós",
+      "Peso da Chumbada": "20g",
+      "Cor": "Natural"
+     },
+     "price": 0,
+     "img": "/fotos/891126f8fb2f.webp"
+    },
+    {
+     "sku": "4061070015",
+     "opts": {
+      "Variações": "Ilhós",
+      "Peso da Chumbada": "25g",
+      "Cor": "Natural"
+     },
+     "price": 0,
+     "img": "/fotos/891126f8fb2f.webp"
+    },
+    {
+     "sku": "4061070013",
+     "opts": {
+      "Variações": "Ilhós",
+      "Peso da Chumbada": "30g",
+      "Cor": "Natural"
+     },
+     "price": 0,
+     "img": "/fotos/891126f8fb2f.webp"
+    },
+    {
+     "sku": "4061070018",
+     "opts": {
+      "Variações": "Ilhós",
+      "Peso da Chumbada": "35g",
+      "Cor": "Natural"
+     },
+     "price": 0,
+     "img": "/fotos/891126f8fb2f.webp"
+    },
+    {
+     "sku": "4061070014",
+     "opts": {
+      "Variações": "Ilhós",
+      "Peso da Chumbada": "40g",
+      "Cor": "Natural"
+     },
+     "price": 0,
+     "img": "/fotos/891126f8fb2f.webp"
+    },
+    {
+     "sku": "4061070019",
+     "opts": {
+      "Variações": "Ilhós",
+      "Peso da Chumbada": "45g",
+      "Cor": "Natural"
+     },
+     "price": 0,
+     "img": "/fotos/891126f8fb2f.webp"
+    },
+    {
+     "sku": "4061070017",
+     "opts": {
+      "Variações": "Ilhós",
+      "Peso da Chumbada": "50g",
+      "Cor": "Natural"
+     },
+     "price": 0,
+     "img": "/fotos/891126f8fb2f.webp"
+    },
+    {
+     "sku": "4061070020",
+     "opts": {
+      "Variações": "Ilhós",
+      "Peso da Chumbada": "55g",
+      "Cor": "Natural"
+     },
+     "price": 0,
+     "img": "/fotos/891126f8fb2f.webp"
+    },
+    {
+     "sku": "4061070016",
+     "opts": {
+      "Variações": "Ilhós",
+      "Peso da Chumbada": "60g",
+      "Cor": "Natural"
+     },
+     "price": 0,
+     "img": "/fotos/891126f8fb2f.webp"
+    },
+    {
+     "sku": "4061060001",
+     "opts": {
+      "Variações": "Ilhós",
+      "Peso da Chumbada": "15g",
+      "Cor": "Amarelo"
+     },
+     "price": 0,
+     "img": "/fotos/cor-poita-amarela.webp"
+    },
+    {
+     "sku": "4061060002",
+     "opts": {
+      "Variações": "Ilhós",
+      "Peso da Chumbada": "20g",
+      "Cor": "Amarelo"
+     },
+     "price": 0,
+     "img": "/fotos/cor-poita-amarela.webp"
+    },
+    {
+     "sku": "4061060003",
+     "opts": {
+      "Variações": "Ilhós",
+      "Peso da Chumbada": "25g",
+      "Cor": "Amarelo"
+     },
+     "price": 0,
+     "img": "/fotos/cor-poita-amarela.webp"
+    },
+    {
+     "sku": "4061060004",
+     "opts": {
+      "Variações": "Ilhós",
+      "Peso da Chumbada": "30g",
+      "Cor": "Amarelo"
+     },
+     "price": 0,
+     "img": "/fotos/cor-poita-amarela.webp"
+    },
+    {
+     "sku": "4061060005",
+     "opts": {
+      "Variações": "Ilhós",
+      "Peso da Chumbada": "35g",
+      "Cor": "Amarelo"
+     },
+     "price": 0,
+     "img": "/fotos/cor-poita-amarela.webp"
+    },
+    {
+     "sku": "4061060006",
+     "opts": {
+      "Variações": "Ilhós",
+      "Peso da Chumbada": "40g",
+      "Cor": "Amarelo"
+     },
+     "price": 0,
+     "img": "/fotos/cor-poita-amarela.webp"
+    },
+    {
+     "sku": "4061060007",
+     "opts": {
+      "Variações": "Ilhós",
+      "Peso da Chumbada": "45g",
+      "Cor": "Amarelo"
+     },
+     "price": 0,
+     "img": "/fotos/cor-poita-amarela.webp"
+    },
+    {
+     "sku": "4061060008",
+     "opts": {
+      "Variações": "Ilhós",
+      "Peso da Chumbada": "50g",
+      "Cor": "Amarelo"
+     },
+     "price": 0,
+     "img": "/fotos/cor-poita-amarela.webp"
+    },
+    {
+     "sku": "4061060009",
+     "opts": {
+      "Variações": "Ilhós",
+      "Peso da Chumbada": "55g",
+      "Cor": "Amarelo"
+     },
+     "price": 0,
+     "img": "/fotos/cor-poita-amarela.webp"
+    },
+    {
+     "sku": "4061060010",
+     "opts": {
+      "Variações": "Ilhós",
+      "Peso da Chumbada": "60g",
+      "Cor": "Amarelo"
+     },
+     "price": 0,
+     "img": "/fotos/cor-poita-amarela.webp"
+    },
+    {
+     "sku": "4061050001",
+     "opts": {
+      "Variações": "Ilhós",
+      "Peso da Chumbada": "15g",
+      "Cor": "Laranja"
+     },
+     "price": 0,
+     "img": "/fotos/cor-poita-laranja.webp"
+    },
+    {
+     "sku": "4061050002",
+     "opts": {
+      "Variações": "Ilhós",
+      "Peso da Chumbada": "20g",
+      "Cor": "Laranja"
+     },
+     "price": 0,
+     "img": "/fotos/cor-poita-laranja.webp"
+    },
+    {
+     "sku": "4061050003",
+     "opts": {
+      "Variações": "Ilhós",
+      "Peso da Chumbada": "25g",
+      "Cor": "Laranja"
+     },
+     "price": 0,
+     "img": "/fotos/cor-poita-laranja.webp"
+    },
+    {
+     "sku": "4061050004",
+     "opts": {
+      "Variações": "Ilhós",
+      "Peso da Chumbada": "30g",
+      "Cor": "Laranja"
+     },
+     "price": 0,
+     "img": "/fotos/cor-poita-laranja.webp"
+    },
+    {
+     "sku": "4061050005",
+     "opts": {
+      "Variações": "Ilhós",
+      "Peso da Chumbada": "35g",
+      "Cor": "Laranja"
+     },
+     "price": 0,
+     "img": "/fotos/cor-poita-laranja.webp"
+    },
+    {
+     "sku": "4061050006",
+     "opts": {
+      "Variações": "Ilhós",
+      "Peso da Chumbada": "40g",
+      "Cor": "Laranja"
+     },
+     "price": 0,
+     "img": "/fotos/cor-poita-laranja.webp"
+    },
+    {
+     "sku": "4061050007",
+     "opts": {
+      "Variações": "Ilhós",
+      "Peso da Chumbada": "45g",
+      "Cor": "Laranja"
+     },
+     "price": 0,
+     "img": "/fotos/cor-poita-laranja.webp"
+    },
+    {
+     "sku": "4061050008",
+     "opts": {
+      "Variações": "Ilhós",
+      "Peso da Chumbada": "50g",
+      "Cor": "Laranja"
+     },
+     "price": 0,
+     "img": "/fotos/cor-poita-laranja.webp"
+    },
+    {
+     "sku": "4061050009",
+     "opts": {
+      "Variações": "Ilhós",
+      "Peso da Chumbada": "55g",
+      "Cor": "Laranja"
+     },
+     "price": 0,
+     "img": "/fotos/cor-poita-laranja.webp"
+    },
+    {
+     "sku": "4061050010",
+     "opts": {
+      "Variações": "Ilhós",
+      "Peso da Chumbada": "60g",
+      "Cor": "Laranja"
+     },
+     "price": 0,
+     "img": "/fotos/cor-poita-laranja.webp"
+    },
+    {
+     "sku": "4061020001",
+     "opts": {
+      "Variações": "Ilhós",
+      "Peso da Chumbada": "15g",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/cor-poita-preta.webp"
+    },
+    {
+     "sku": "4061020002",
+     "opts": {
+      "Variações": "Ilhós",
+      "Peso da Chumbada": "20g",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/cor-poita-preta.webp"
+    },
+    {
+     "sku": "4061020003",
+     "opts": {
+      "Variações": "Ilhós",
+      "Peso da Chumbada": "25g",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/cor-poita-preta.webp"
+    },
+    {
+     "sku": "4061020004",
+     "opts": {
+      "Variações": "Ilhós",
+      "Peso da Chumbada": "30g",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/cor-poita-preta.webp"
+    },
+    {
+     "sku": "4061020005",
+     "opts": {
+      "Variações": "Ilhós",
+      "Peso da Chumbada": "35g",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/cor-poita-preta.webp"
+    },
+    {
+     "sku": "4061020006",
+     "opts": {
+      "Variações": "Ilhós",
+      "Peso da Chumbada": "40g",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/cor-poita-preta.webp"
+    },
+    {
+     "sku": "4061020007",
+     "opts": {
+      "Variações": "Ilhós",
+      "Peso da Chumbada": "45g",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/cor-poita-preta.webp"
+    },
+    {
+     "sku": "4061020008",
+     "opts": {
+      "Variações": "Ilhós",
+      "Peso da Chumbada": "50g",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/cor-poita-preta.webp"
+    },
+    {
+     "sku": "4061020009",
+     "opts": {
+      "Variações": "Ilhós",
+      "Peso da Chumbada": "55g",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/cor-poita-preta.webp"
+    },
+    {
+     "sku": "4061020010",
+     "opts": {
+      "Variações": "Ilhós",
+      "Peso da Chumbada": "60g",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/cor-poita-preta.webp"
+    },
+    {
+     "sku": "4061040001",
+     "opts": {
+      "Variações": "Ilhós",
+      "Peso da Chumbada": "15g",
+      "Cor": "Vermelho"
+     },
+     "price": 0,
+     "img": "/fotos/cor-poita-vermelha.webp"
+    },
+    {
+     "sku": "4061040002",
+     "opts": {
+      "Variações": "Ilhós",
+      "Peso da Chumbada": "20g",
+      "Cor": "Vermelho"
+     },
+     "price": 0,
+     "img": "/fotos/cor-poita-vermelha.webp"
+    },
+    {
+     "sku": "4061040003",
+     "opts": {
+      "Variações": "Ilhós",
+      "Peso da Chumbada": "25g",
+      "Cor": "Vermelho"
+     },
+     "price": 0,
+     "img": "/fotos/cor-poita-vermelha.webp"
+    },
+    {
+     "sku": "4061040004",
+     "opts": {
+      "Variações": "Ilhós",
+      "Peso da Chumbada": "30g",
+      "Cor": "Vermelho"
+     },
+     "price": 0,
+     "img": "/fotos/cor-poita-vermelha.webp"
+    },
+    {
+     "sku": "4061040005",
+     "opts": {
+      "Variações": "Ilhós",
+      "Peso da Chumbada": "35g",
+      "Cor": "Vermelho"
+     },
+     "price": 0,
+     "img": "/fotos/cor-poita-vermelha.webp"
+    },
+    {
+     "sku": "4061040006",
+     "opts": {
+      "Variações": "Ilhós",
+      "Peso da Chumbada": "40g",
+      "Cor": "Vermelho"
+     },
+     "price": 0,
+     "img": "/fotos/cor-poita-vermelha.webp"
+    },
+    {
+     "sku": "4061040007",
+     "opts": {
+      "Variações": "Ilhós",
+      "Peso da Chumbada": "45g",
+      "Cor": "Vermelho"
+     },
+     "price": 0,
+     "img": "/fotos/cor-poita-vermelha.webp"
+    },
+    {
+     "sku": "4061040008",
+     "opts": {
+      "Variações": "Ilhós",
+      "Peso da Chumbada": "50g",
+      "Cor": "Vermelho"
+     },
+     "price": 0,
+     "img": "/fotos/cor-poita-vermelha.webp"
+    },
+    {
+     "sku": "4061040009",
+     "opts": {
+      "Variações": "Ilhós",
+      "Peso da Chumbada": "55g",
+      "Cor": "Vermelho"
+     },
+     "price": 0,
+     "img": "/fotos/cor-poita-vermelha.webp"
+    },
+    {
+     "sku": "4061040010",
+     "opts": {
+      "Variações": "Ilhós",
+      "Peso da Chumbada": "60g",
+      "Cor": "Vermelho"
+     },
+     "price": 0,
+     "img": "/fotos/cor-poita-vermelha.webp"
+    }
+   ],
+   "preco": null,
+   "variacoes": 50,
+   "foto": "/fotos/891126f8fb2f.webp",
+   "fotos": [
+    "/fotos/891126f8fb2f.webp",
+    "/fotos/cor-poita-amarela.webp",
+    "/fotos/cor-poita-laranja.webp",
+    "/fotos/cor-poita-preta.webp",
+    "/fotos/cor-poita-vermelha.webp"
+   ]
+  },
+  {
+   "n": 22,
+   "handle": "saca-anzol-de-competicao",
+   "nome": "Saca Anzol de Competição",
+   "titulo": "Saca Anzol de Competição",
+   "cat": "margem",
+   "catSelecao": "acessorios",
+   "gancho": "Aço inox e termoplástico",
+   "frase": "Quatro tamanhos para diferentes montagens.",
+   "desc": [
+    "O Saca Anzol de Competição é um acessório indispensável para pescadores que priorizam segurança, eficiência e praticidade em suas atividades. Fabricado com materiais de altíssima qualidade, ele combina a força e a resistência do termoplástico de engenharia com a durabilidade e a confiabilidade do aço inoxidável, resultando em um produto que não enferruja e não quebra, mesmo sob uso intenso em condições adversas.",
+    "Cada unidade é produzida com atenção máxima aos detalhes. A ponta do Saca Anzol de Competição é artesanalmente afiada e entortada, todos são testados individualmente garantindo que cada um funcione com a linha ideal mencionada garantindo precisão e eficácia ao retirar anzóis. O Saca Anzol de Competição é oferecido em 4 tamanhos NANO (ideal para linhas de até 0,23mm), MICRO (ideal para linhas de até 0,30 mm) PEQUENO (ideal para linhas de até 0,40mm) e MÉDIO para linhas de até 0,45mm). A escolha do tamanho do Saca Anzol está muito relacionado com o tipo de pescaria tamanho de peixe e tamanho de anzol. Fique atento se o anzol possui haste com olhal ( ideal usar tamanhos Pequeno e Médio ) ou haste com pata ( neste caso a atenção será somente para a espessura da linha e tamanho de anzol ).",
+    "Além disso, seu processo de fabricação exclusivo garante que o aço inox fique perfeitamente integrado ao termoplástico, eliminando qualquer risco de desprendimento durante o uso. Esse cuidado especial não apenas prolonga a vida útil do produto, mas também maximiza a segurança e a confiança do pescador.",
+    "O Saca Anzol de Competição é uma ferramenta projetada para situações onde o uso das mãos não é possível ou indicado. Seja por questões de segurança, como no caso de peixes com dentição perigosa, ou por necessidade, quando o anzol é profundamente engolido e não pode ser retirado de forma convencional, esta ferramenta se torna necessária. Em muitos casos, o uso de um acessório como este é o único meio de retirar o anzol sem causar maiores danos ao peixe ou ao pescador.",
+    "Compacto e leve, o Saca Anzol de Competição é fácil de transportar, podendo ser transportado junto com outros equipamentos de pesca sem ocupar espaço significativo. Essa portabilidade faz dele o companheiro ideal para todas as modalidades de pesca, com destaque especial para a pesca de praia , onde sua praticidade e funcionalidade se destacam ainda mais.",
+    "Mais do que apenas um acessório, o Saca Anzol de Competição é uma ferramenta de alta performance, pensada para atender às necessidades dos pescadores mais exigentes. Sua resistência, precisão e design ergonômico garantem uma experiência de uso excepcional. Seja você um iniciante ou um pescador experiente, ter um Saca Anzol de Competição em seu kit é sinônimo de estar preparado para qualquer situação, com segurança e eficiência ao alcance das mãos."
+   ],
+   "tags": [
+    "Acessorios",
+    "Competição",
+    "Saca Anzol"
+   ],
+   "opcoes": {
+    "Tamanho": [
+     "Médio",
+     "Pequeno",
+     "Micro",
+     "Nano"
+    ]
+   },
+   "variantes": [
+    {
+     "sku": "PA10074",
+     "opts": {
+      "Tamanho": "Médio"
+     },
+     "price": 0,
+     "img": "/fotos/bbee6e14b3ec.webp"
+    },
+    {
+     "sku": "PA10073",
+     "opts": {
+      "Tamanho": "Pequeno"
+     },
+     "price": 0,
+     "img": "/fotos/8a19368ab132.webp"
+    },
+    {
+     "sku": "PA10072",
+     "opts": {
+      "Tamanho": "Micro"
+     },
+     "price": 0,
+     "img": "/fotos/72c7391e3f7e.webp"
+    },
+    {
+     "sku": "PA11296",
+     "opts": {
+      "Tamanho": "Nano"
+     },
+     "price": 0,
+     "img": "/fotos/7d54b1c7ca49.webp"
+    }
+   ],
+   "preco": null,
+   "variacoes": 4,
+   "foto": "/fotos/72c7391e3f7e.webp",
+   "fotos": [
+    "/fotos/72c7391e3f7e.webp",
+    "/fotos/610bbe6f12f0.webp",
+    "/fotos/3a9451fc21f0.webp",
+    "/fotos/9b2d8256fd60.webp",
+    "/fotos/289d87939660.webp",
+    "/fotos/37fd21b65528.webp",
+    "/fotos/8a19368ab132.webp",
+    "/fotos/bbee6e14b3ec.webp",
+    "/fotos/7d54b1c7ca49.webp",
+    "/fotos/bd6d2fc5bbfc.webp"
+   ]
+  },
+  {
+   "n": 23,
+   "handle": "suporte-horiziontal",
+   "nome": "Suporte Horizontal",
+   "titulo": "Suporte Horizontal",
+   "cat": "margem",
+   "catSelecao": "acessorios",
+   "gancho": "Para tilápias, carpas e finesse",
+   "frase": "Mantenha a vara paralela ao chão.",
+   "desc": [
+    "Suporte Horizontal – Precisão e Praticidade para sua Pescaria",
+    "O Suporte Horizontal foi desenvolvido para oferecer conforto, precisão e agilidade durante a pescaria. Ele mantém a vara paralela ao chão, em um ângulo de 90° em relação ao corpo do pescador, o que torna o movimento de fisgada mais rápido e natural no momento em que a vara é retirada do suporte.",
+    "Ideal para pescarias finesse, de tilápia e carpas, onde a observação da linha é essencial, o Suporte Horizontal permite que o pescador fique atento aos mínimos movimentos. Também é perfeito para quando você está iscando ou preparando outra vara, mantendo a ponta da vara sempre visível.",
+    "Versátil e resistente. Fabricado com termoplástico de engenharia.",
+    "Em dias de vento, ele é muito útil, pois com a vara abaixada teremos menos incidência do vento sobre a linha.",
+    "É extremamente útil em plataformas de pesca e pesqueiros, especialmente em campeonatos, onde a agilidade faz a diferença.",
+    "Compatível com os nossos Suportes Slim e Suportes Premium, ele pode ser adquirido separadamente e acoplado facilmente às cantoneiras existentes.",
+    "Disponível nos tamanhos:",
+    "40 cm, 60 cm, 85 cm, 1 m e 1,20 m – montado e pronto para uso.",
+    "Escolha o tamanho ideal de acordo com o tipo de pescaria e altura do suporte desejada.",
+    "Seja para pesca de fundo ou para pesca onde é necessário observar a linha, o Suporte Horizontal é o aliado certo para elevar sua performance na beira d’água."
+   ],
+   "tags": [
+    "Eco",
+    "Slim",
+    "Suporte de Vara",
+    "suporte horizontal",
+    "Todos"
+   ],
+   "opcoes": {
+    "Tamanho": [
+     "40cm",
+     "60cm",
+     "85cm",
+     "100cm",
+     "120cm",
+     "-"
+    ],
+    "Opções": [
+     "Suporte Horizontal Completo",
+     "Somente a barra",
+     "Suporte Horizontal (Peça Individual)"
+    ]
+   },
+   "variantes": [
+    {
+     "sku": "PA12746",
+     "opts": {
+      "Tamanho": "40cm",
+      "Opções": "Suporte Horizontal Completo"
+     },
+     "price": 0,
+     "img": "/fotos/330811cbd093.webp"
+    },
+    {
+     "sku": "PA12748",
+     "opts": {
+      "Tamanho": "40cm",
+      "Opções": "Somente a barra"
+     },
+     "price": 0,
+     "img": "/fotos/34dc671b9ed7.webp"
+    },
+    {
+     "sku": "PA12745",
+     "opts": {
+      "Tamanho": "60cm",
+      "Opções": "Suporte Horizontal Completo"
+     },
+     "price": 0,
+     "img": "/fotos/330811cbd093.webp"
+    },
+    {
+     "sku": "PA12749",
+     "opts": {
+      "Tamanho": "60cm",
+      "Opções": "Somente a barra"
+     },
+     "price": 0,
+     "img": "/fotos/34dc671b9ed7.webp"
+    },
+    {
+     "sku": "PA12744",
+     "opts": {
+      "Tamanho": "85cm",
+      "Opções": "Suporte Horizontal Completo"
+     },
+     "price": 0,
+     "img": "/fotos/330811cbd093.webp"
+    },
+    {
+     "sku": "PA12750",
+     "opts": {
+      "Tamanho": "85cm",
+      "Opções": "Somente a barra"
+     },
+     "price": 0,
+     "img": "/fotos/34dc671b9ed7.webp"
+    },
+    {
+     "sku": "PA12743",
+     "opts": {
+      "Tamanho": "100cm",
+      "Opções": "Suporte Horizontal Completo"
+     },
+     "price": 0,
+     "img": "/fotos/330811cbd093.webp"
+    },
+    {
+     "sku": "PA12751",
+     "opts": {
+      "Tamanho": "100cm",
+      "Opções": "Somente a barra"
+     },
+     "price": 0,
+     "img": "/fotos/34dc671b9ed7.webp"
+    },
+    {
+     "sku": "PA12742",
+     "opts": {
+      "Tamanho": "120cm",
+      "Opções": "Suporte Horizontal Completo"
+     },
+     "price": 0,
+     "img": "/fotos/330811cbd093.webp"
+    },
+    {
+     "sku": "PA12752",
+     "opts": {
+      "Tamanho": "120cm",
+      "Opções": "Somente a barra"
+     },
+     "price": 0,
+     "img": "/fotos/34dc671b9ed7.webp"
+    },
+    {
+     "sku": "PA12747",
+     "opts": {
+      "Tamanho": "-",
+      "Opções": "Suporte Horizontal (Peça Individual)"
+     },
+     "price": 0,
+     "img": "/fotos/c63b66b3be12.webp"
+    }
+   ],
+   "preco": null,
+   "variacoes": 11,
+   "foto": "/fotos/b5738cc5cefc.webp",
+   "fotos": [
+    "/fotos/b5738cc5cefc.webp",
+    "/fotos/2311a79c68f3.webp",
+    "/fotos/330811cbd093.webp",
+    "/fotos/c63b66b3be12.webp",
+    "/fotos/34dc671b9ed7.webp",
+    "/fotos/fd01a4caaf49.webp"
+   ]
+  },
+  {
+   "n": 24,
+   "handle": "mini-secretaria",
+   "nome": "Mini Secretária",
+   "titulo": "Mini Secretária",
+   "cat": "margem",
+   "catSelecao": "acessorios",
+   "gancho": "Compacta e funcional",
+   "frase": "Organize acessórios e prepare sua isca.",
+   "desc": [
+    "Mini Secretária Chumbada Oficial",
+    "A Mini Secretária foi desenvolvida para facilitar a vida do pescador na hora da pescaria.",
+    "Compacta, prática e muito funcional, ela pode ser utilizada como uma bandeja de apoio para organizar os acessórios e trabalhar a isca com mais conforto e agilidade.",
+    "Pode ser usada em diferentes opções de encaixe:",
+    "Na cantoneira dos suportes de vara, na cantoneira Premium e Slim ou até mesmo em cano comum de esgoto de 2”.",
+    "Nela, o pescador pode apoiar e organizar itens como tesoura, saca-anzol, porta elastricot, iscador, iscas e outros acessórios essenciais durante a pescaria.",
+    "Além disso, conta com espaço próprio para apoiar e preparar a isca, deixando tudo à mão e tornando o momento da montagem muito mais prático.",
+    "Disponível nas opções Preto Eco, Azul Eco, Preta, Branca e Azul.",
+    "Mini Secretária Chumbada Oficial: pequena no tamanho, gigante na praticidade."
+   ],
+   "tags": [
+    "Acessorios",
+    "Eco",
+    "Mini Secretaria",
+    "Secretária",
+    "Todos"
+   ],
+   "opcoes": {
+    "Cor": [
+     "Azul",
+     "Branco",
+     "Preto",
+     "Azul Eco",
+     "Preto Eco",
+     "Branco Eco"
+    ]
+   },
+   "variantes": [
+    {
+     "sku": "MSec030800",
+     "opts": {
+      "Cor": "Azul"
+     },
+     "price": 0,
+     "img": "/fotos/3a7206db5e0b.webp"
+    },
+    {
+     "sku": "MSec030909",
+     "opts": {
+      "Cor": "Branco"
+     },
+     "price": 0,
+     "img": "/fotos/9c810d5a8c94.webp"
+    },
+    {
+     "sku": "MSec0319",
+     "opts": {
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/8f82020f771f.webp"
+    },
+    {
+     "sku": "MSec0309",
+     "opts": {
+      "Cor": "Azul Eco"
+     },
+     "price": 0,
+     "img": "/fotos/eb759ebfd11b.webp"
+    },
+    {
+     "sku": "MSec0314",
+     "opts": {
+      "Cor": "Preto Eco"
+     },
+     "price": 0,
+     "img": "/fotos/c0abc0c342b7.webp"
+    },
+    {
+     "sku": "MSec0342",
+     "opts": {
+      "Cor": "Branco Eco"
+     },
+     "price": 0,
+     "img": "/fotos/ab632116cc09.webp"
+    }
+   ],
+   "preco": null,
+   "variacoes": 6,
+   "foto": "/fotos/c1c60cd4c329.webp",
+   "fotos": [
+    "/fotos/c1c60cd4c329.webp",
+    "/fotos/c0abc0c342b7.webp",
+    "/fotos/3a7206db5e0b.webp",
+    "/fotos/9c810d5a8c94.webp",
+    "/fotos/8f82020f771f.webp",
+    "/fotos/eb759ebfd11b.webp",
+    "/fotos/ab632116cc09.webp"
+   ]
+  },
+  {
+   "n": 25,
+   "handle": "amarra-vara-velcro",
+   "nome": "Amarra Vara Velcro",
+   "titulo": "Amarra Vara Velcro",
+   "cat": "margem",
+   "catSelecao": "acessorios",
+   "gancho": "Velcro de 50 cm",
+   "frase": "Praticidade para apoiar e transportar varas.",
+   "desc": [
+    "Amarra Vara Velcro - Versatilidade e Praticidade na Sua Pescaria",
+    "O Amarra Vara Velcro é um acessório indispensável para qualquer pescador que preza pela organização e praticidade. Fabricado em borracha de alta qualidade, o produto é extremamente versátil e durável, proporcionando diferentes formas de utilização tanto durante a pescaria quanto no transporte dos equipamentos.",
+    "Com um design inovador, o Amarra Vara Velcro conta com uma faixa de velcro de 50 cm, que facilita a amarração das varas ou do suporte em diversos locais, como guarda-corpos, decks de pesca com gradil, cadeiras e até mesmo no bagageiro de veículos. Isso permite que você transporte as varas com carretilhas já montadas e prontas para o uso, garantindo agilidade e segurança no manuseio dos equipamentos.",
+    "Além de ser um suporte prático para varas, o produto também serve como um eficiente amarrador, garantindo que as varas fiquem firmes e bem posicionadas, mesmo em locais de difícil fixação. Sua estrutura de borracha proporciona alta aderência e flexibilidade, adaptando-se perfeitamente a diferentes diâmetros de varas e locais de apoio, evitando deslizamentos e mantendo as varas seguras e estáveis durante toda a pescaria.",
+    "Com a adição do velcro de 50 cm, o Amarra Vara Velcro é capaz de oferecer uma fixação ainda mais segura e eficiente, possibilitando amarrações rápidas e descomplicadas em praticamente qualquer superfície. Seja para apoiar as varas durante o uso ou para amarrá-las com segurança no transporte, o Amarra Vara Velcro é a solução definitiva para organização e funcionalidade no seu dia a dia de pesca."
+   ],
+   "tags": [
+    "Acessorios",
+    "amarra",
+    "Suporte de Vara",
+    "Todos",
+    "vara",
+    "velcro"
+   ],
+   "opcoes": {},
+   "variantes": [
+    {
+     "sku": "PA12125",
+     "opts": {},
+     "price": 0,
+     "img": null
+    }
+   ],
+   "preco": null,
+   "variacoes": 1,
+   "foto": "/fotos/672ea2a9b897.webp",
+   "fotos": [
+    "/fotos/672ea2a9b897.webp",
+    "/fotos/ab15b2da3026.webp",
+    "/fotos/6b242e5b68de.webp"
+   ]
+  },
+  {
+   "n": 26,
+   "handle": "regua-cantoneira",
+   "nome": "Régua Cantoneira",
+   "titulo": "Régua Cantoneira",
+   "cat": "margem",
+   "catSelecao": "acessorios",
+   "gancho": "Largura de 15 cm",
+   "frase": "À prova d’água e aferida individualmente.",
+   "desc": [
+    "Régua a prova d'agua com 15cm de largura, as medidas são extremamente precisas e aferidas individualmente.",
+    "Cantoneira desenvolvida especialmente para essa finalidade, resistente, cantos arredondados e espessuras com raio para não ter problema no transporte, cola especial, a mesma não desgruda nem em contato com a água."
+   ],
+   "tags": [
+    "Acessorios"
+   ],
+   "opcoes": {
+    "Opção": [
+     "Completa - 50cm",
+     "Completa - 100cm",
+     "Somente a Cantoneira"
+    ],
+    "Cor": [
+     "Preto",
+     "Azul"
+    ]
+   },
+   "variantes": [
+    {
+     "sku": "PA10031",
+     "opts": {
+      "Opção": "Completa - 50cm",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/2471c53cd2ff.webp"
+    },
+    {
+     "sku": "PA10032",
+     "opts": {
+      "Opção": "Completa - 100cm",
+      "Cor": "Azul"
+     },
+     "price": 0,
+     "img": "/fotos/5c494798ee99.webp"
+    },
+    {
+     "sku": "PSA0021",
+     "opts": {
+      "Opção": "Somente a Cantoneira",
+      "Cor": "Azul"
+     },
+     "price": 0,
+     "img": "/fotos/b97f2bd5c3fa.webp"
+    },
+    {
+     "sku": "PSA0022",
+     "opts": {
+      "Opção": "Somente a Cantoneira",
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/dcc079c9c013.webp"
+    }
+   ],
+   "preco": null,
+   "variacoes": 4,
+   "foto": "/fotos/9c35c16a8eae.webp",
+   "fotos": [
+    "/fotos/9c35c16a8eae.webp",
+    "/fotos/03d52f01f5c3.webp",
+    "/fotos/2471c53cd2ff.webp",
+    "/fotos/5c494798ee99.webp",
+    "/fotos/dcc079c9c013.webp",
+    "/fotos/b97f2bd5c3fa.webp"
+   ]
+  }
+ ]
+}
