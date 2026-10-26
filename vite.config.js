@@ -12,6 +12,7 @@ const ssr = () => ({
     const nVar = data.produtos.reduce((a, p) => a + p.variacoes, 0);
     return html
       .replaceAll('269', String(nVar))
+      .replaceAll('__NP__', String(data.produtos.length))
       .replace('<!--HEAD-->', headTags({
         title: DEFAULT_TITLE, description: DEFAULT_DESC, path: '/',
         image: '/img/chumbada-bola-furada-natural.webp', jsonld: indexJsonLd(data),

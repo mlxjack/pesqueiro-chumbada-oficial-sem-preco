@@ -102,6 +102,9 @@ for p in prods:
         'gancho': gancho, 'frase': frase, 'desc': p['body'], 'tags': p['tags'],
         'opcoes': opcoes, 'variantes': variantes, 'preco': min(prices, default=None), 'variacoes': len(variantes),
         'foto': fotos[0] if fotos else None, 'fotos': fotos})
+# produtos da linha que não estão no CSV (ver scripts/extras.py)
+if os.path.exists(f'{ROOT}/src/data/extras.json'):
+    out += json.load(open(f'{ROOT}/src/data/extras.json', encoding='utf-8'))
 out.sort(key=lambda x: x['n'])
 json.dump({'categorias': [{'id': a, 'nome': b, 'frase': c} for a, b, c in CATS], 'produtos': out},
           open(f'{ROOT}/src/data/products.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=1)

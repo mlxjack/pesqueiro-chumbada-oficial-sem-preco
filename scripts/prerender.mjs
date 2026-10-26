@@ -35,7 +35,7 @@ data.produtos.forEach((p, i) => {
   if (!tpl.includes(GEMPTY)) throw new Error('marcador #gridpage não encontrado');
   const head = headTags({
     title: 'Todos os produtos para pesqueiro | Chumbada Oficial',
-    description: 'Veja os 26 produtos da linha pesqueiro da Chumbada Oficial: chumbadas, anzóis, atrativos, snaps, destorcedores, stoppers e acessórios de margem.',
+    description: `Veja os ${data.produtos.length} produtos da linha pesqueiro da Chumbada Oficial: chumbadas, anzóis, atrativos, snaps, destorcedores, stoppers e acessórios de margem.`,
     path: '/produtos/', image: '/img/chumbada-bola-furada-natural.webp', jsonld: indexJsonLd(data),
   });
   const html = tpl

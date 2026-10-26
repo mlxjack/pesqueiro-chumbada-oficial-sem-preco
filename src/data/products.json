@@ -6043,6 +6043,89 @@
     "/fotos/dcc079c9c013.webp",
     "/fotos/b97f2bd5c3fa.webp"
    ]
+  },
+  {
+   "n": 27,
+   "handle": "secretaria-paredao",
+   "nome": "Secretária Paredão",
+   "titulo": "Secretária Paredão",
+   "cat": "margem",
+   "catSelecao": "acessorios",
+   "gancho": "Para paredões, decks e plataformas",
+   "frase": "Apoio firme para pescar em qualquer lugar.",
+   "desc": [
+    "A nova Secretária Paredão foi desenvolvida para quem pesca em qualquer lugar. Muito mais do que uma secretária tradicional, ela pode ser utilizada em plataformas, decks, paredões, muretas e outros locais onde o apoio é feito pelo calão ou cantoneira de alumínio.",
+    "É compatível com o Suporte de Vara Slim e o Suporte de Vara Premium, podendo ser fixada diretamente neles.",
+    "Seu grande diferencial está na alta resistência e no sistema de fixação inteligente, com dois canais para passagem de cordas ou elásticos e ganchos laterais que facilitam a amarração, proporcionando firmeza e segurança durante a pescaria.",
+    "Compacta, leve e fácil de transportar, conta com furos traseiros para diferentes formas de fixação, compartimentos para organizar iscas, faca, iscador, saca-anzol e outros acessórios, deixando tudo sempre ao alcance das mãos.",
+    "Além disso, possui um furo central, que permite sua utilização diretamente no Varal da Chumbada Oficial, ampliando ainda mais sua versatilidade e possibilitando diferentes configurações para a sua pescaria.",
+    "Disponível nas cores Azul, Branco, Preto e Preto Eco.",
+    "Mais praticidade, organização e eficiência para você focar no que realmente importa: pescar mais e melhor."
+   ],
+   "tags": [
+    "Acessorios",
+    "Secretária",
+    "Paredão",
+    "Eco",
+    "Todos"
+   ],
+   "opcoes": {
+    "Cor": [
+     "Azul",
+     "Branco",
+     "Preto",
+     "Preto Eco"
+    ]
+   },
+   "variantes": [
+    {
+     "sku": "Sec0428",
+     "opts": {
+      "Cor": "Azul"
+     },
+     "price": 0,
+     "img": "/fotos/6c0bbcb42ed2.webp"
+    },
+    {
+     "sku": "Sec0431",
+     "opts": {
+      "Cor": "Branco"
+     },
+     "price": 0,
+     "img": "/fotos/e19926c51f6c.webp"
+    },
+    {
+     "sku": "Sec0419",
+     "opts": {
+      "Cor": "Preto"
+     },
+     "price": 0,
+     "img": "/fotos/61dc9f36b01d.webp"
+    },
+    {
+     "sku": "Sec0414",
+     "opts": {
+      "Cor": "Preto Eco"
+     },
+     "price": 0,
+     "img": "/fotos/f1727167b8f2.webp"
+    }
+   ],
+   "preco": null,
+   "variacoes": 4,
+   "foto": "/fotos/884480e8d186.webp",
+   "fotos": [
+    "/fotos/884480e8d186.webp",
+    "/fotos/2eab19d2a1ce.webp",
+    "/fotos/8ce031f9c9d7.webp",
+    "/fotos/ae3aaa0d0d5c.webp",
+    "/fotos/f1727167b8f2.webp",
+    "/fotos/61dc9f36b01d.webp",
+    "/fotos/6df2a42d0816.webp",
+    "/fotos/89cfb3a9984e.webp",
+    "/fotos/6c0bbcb42ed2.webp",
+    "/fotos/e19926c51f6c.webp"
+   ]
   }
  ]
 }
