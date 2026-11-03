@@ -193,7 +193,6 @@ $$('.chip').forEach((c) => c.addEventListener('click', () => {
   $$('.chip').forEach((x) => x.classList.toggle('is-on', x === c));
   applyFilter();
 }));
-$('.search input').addEventListener('input', (e) => { query = e.target.value.trim().toLowerCase(); applyFilter(); });
 
 /* ---------- detalhe do produto ---------- */
 const detail = $('#detail');
@@ -340,7 +339,6 @@ function openGrid({ push = true, origin } = {}) {
     $$('[data-gfilter]', gridEl).forEach((x) => x.classList.toggle('is-on', x === c));
     applyGridFilter();
   }));
-  $('[data-gsearch]', gridEl).addEventListener('input', (e) => { gQuery = e.target.value.trim().toLowerCase(); applyGridFilter(); });
   const ox = origin ? origin.x : innerWidth / 2, oy = origin ? origin.y : 0;
   gsap.fromTo(gridEl, { clipPath: `circle(0px at ${ox}px ${oy}px)` }, { clipPath: `circle(150% at ${ox}px ${oy}px)`, duration: 1, ease: 'power3.inOut', clearProps: 'clipPath' });
   gsap.from('.gp-head > *', { y: 40, opacity: 0, duration: 0.9, stagger: 0.08, ease: 'power3.out', delay: 0.25 });

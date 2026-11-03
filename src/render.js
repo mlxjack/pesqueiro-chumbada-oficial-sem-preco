@@ -53,7 +53,7 @@ export function gridPageHTML(data) {
   <header class="gp-head">
     <p class="eyebrow">Chumbada Oficial · Linha Pesqueiro</p>
     <h2 class="big gp-title">Todos os produtos</h2>
-    <div class="filters" role="toolbar" aria-label="Filtrar produtos">${chips}<label class="search"><span class="sr-only">Buscar produto</span><input type="search" data-gsearch placeholder="Buscar: snap, oliva, anzol…" autocomplete="off"></label></div>
+    <div class="filters" role="toolbar" aria-label="Filtrar produtos">${chips}</div>
     <p class="gp-count" aria-live="polite"><b>${data.produtos.length}</b> produtos</p>
   </header>
   <div class="gp-grid">${data.produtos.map((p) => cardHTML(p, data)).join('')}</div>
