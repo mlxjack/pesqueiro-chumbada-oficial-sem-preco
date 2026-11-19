@@ -96,7 +96,7 @@ export function detailHTML(p, data, { prev, next } = {}) {
     <div class="side">
     <div class="gallery" data-gallery>
       <figure class="gal-main"><img src="${p.foto}" alt="${esc(p.titulo)} — foto do produto" data-main width="1000" height="1000"></figure>
-      ${p.fotos.length > 1 ? `<div class="gal-thumbs" role="group" aria-label="Fotos do produto">${p.fotos.map((f, i) => `<button type="button" class="thumb${i === 0 ? ' is-on' : ''}" data-foto="${f}" aria-label="Foto ${i + 1}"><img src="${f}" alt="" loading="lazy" width="120" height="120"></button>`).join('')}</div>` : ''}
+      ${p.fotos.length > 1 || p.video ? `<div class="gal-thumbs" role="group" aria-label="Fotos do produto">${p.fotos.map((f, i) => `<button type="button" class="thumb${i === 0 ? ' is-on' : ''}" data-foto="${f}" aria-label="Foto ${i + 1}"><img src="${f}" alt="" loading="lazy" width="120" height="120"></button>`).join('')}${p.video ? `<button type="button" class="thumb thumb-video" data-video="${p.video}" aria-label="Ver vídeo do produto"><video src="${p.video}#t=0.5" muted playsinline preload="metadata"></video><span class="thumb-play" aria-hidden="true">▶</span></button>` : ''}</div>` : ''}
     </div>
     <aside class="buy" aria-label="Comprar">
       ${PRECO ? `<div class="buy-price"><small data-price-label>${p.variacoes > 1 ? 'a partir de' : 'preço'}</small><b data-price>${p.preco ? brl(p.preco) : 'Consulte'}</b></div>` : `<div class="buy-price"><small>${p.variacoes > 1 ? p.variacoes + ' variações' : 'versão única'}</small></div>`}

@@ -102,6 +102,10 @@ for p in prods:
         'gancho': gancho, 'frase': frase, 'desc': p['body'], 'tags': p['tags'],
         'opcoes': opcoes, 'variantes': variantes, 'preco': min(prices, default=None), 'variacoes': len(variantes),
         'foto': fotos[0] if fotos else None, 'fotos': fotos})
+# vídeos dos produtos (arquivos em public/video)
+VIDEOS = {'mini-secretaria': '/video/mini-secretaria-instagram.mp4'}
+for p in out:
+    if p['handle'] in VIDEOS: p['video'] = VIDEOS[p['handle']]
 # produtos da linha que não estão no CSV (ver scripts/extras.py)
 if os.path.exists(f'{ROOT}/src/data/extras.json'):
     out += json.load(open(f'{ROOT}/src/data/extras.json', encoding='utf-8'))
