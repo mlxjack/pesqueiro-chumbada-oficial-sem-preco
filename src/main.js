@@ -200,7 +200,28 @@ let openHandle = null;
 /* seletor de variação + quantidade + "Minha Seleção" (mesmo carrinho dos catálogos) */
 function setupGallery() {
   const main = $('[data-main]', detail), thumbs = $$('.thumb', detail), strip = $('.gal-thumbs', detail);
+  const fig = main && main.closest('.gal-main');
+  /* vídeo do produto: toca no lugar da foto principal */
+  function stopVideo() {
+    const v = fig && $('video', fig);
+    if (!v) return false;
+    v.pause(); v.remove(); main.style.display = '';
+    return true;
+  }
+  function showVideo(t) {
+    if (!fig || $('video', fig)) return;
+    const v = document.createElement('video');
+    Object.assign(v, { src: t.dataset.video, controls: true, autoplay: true, playsInline: true });
+    v.className = 'gal-video';
+    main.style.display = 'none';
+    fig.appendChild(v);
+    thumbs.forEach((x) => x.classList.toggle('is-on', x === t));
+  }
   function show(src) {
+    if (stopVideo() && main.getAttribute('src') === src) {
+      thumbs.forEach((t) => t.classList.toggle('is-on', t.dataset.foto === src));
+      return;
+    }
     if (!main || !src || main.getAttribute('src') === src) return;
     gsap.to(main, { opacity: 0, duration: 0.15, onComplete: () => { main.src = src; gsap.to(main, { opacity: 1, duration: 0.35 }); } });
     thumbs.forEach((t) => {
@@ -209,7 +230,7 @@ function setupGallery() {
       if (on && strip) strip.scrollTo({ left: t.offsetLeft - strip.clientWidth / 2 + t.clientWidth / 2, behavior: 'smooth' });
     });
   }
-  thumbs.forEach((t) => t.addEventListener('click', () => show(t.dataset.foto)));
+  thumbs.forEach((t) => t.addEventListener('click', () => (t.dataset.video ? showVideo(t) : show(t.dataset.foto))));
   return show;
 }
 
